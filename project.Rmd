@@ -1,0 +1,94 @@
+---
+title: "English Premier League 19/20 Performance"
+output:
+  html_document:
+    df_print: paged
+---
+
+The data file contains match information from the English premier league during the 19/20 season.
+
+```{r message=FALSE, warning=FALSE}
+data <- read.csv("football.csv", header = TRUE)
+```
+
+There are 892 matches and 21 features of the data.
+
+```{r}
+nrow(data)
+ncol(data)
+```
+
+The "Score" column contains sometimes invalid scores e.g. "01-Mar". *How should we handle this e.g. discard the rows?*
+
+```{r}
+unique(data$Score)
+```
+There are 132 rows associated with the 20/21 year. *Should these be removed as our questions of interest are for the 19/20 season only?*
+
+```{r}
+matches <- data[data$Season == "2020/21",]
+nrow(matches)
+```
+
+The "Date Range" and "League" features are always the same value. *We can remove these from the data frame.*
+
+```{r}
+unique(data$Date.Range)
+unique(data$League)
+```
+The available teams are valid.
+
+```{r}
+teams <- unique(data$Team)
+awayTeams <- unique(data$AT)
+homeTeams <- unique(data$HT)
+
+print(teams)
+print(sort(teams) == sort(awayTeams) & sort(teams) == sort(homeTeams))
+```
+
+The format of the dates can be DD/MM/YYYY or D/MM/YYYY.
+
+```{r}
+head(data$Date, n = 3)
+```
+The goals scored and conceded values are in the range 0 - 9.
+
+```{r}
+unique(data$GS)
+unique(data$GA)
+```
+The points awarded are valid (0, 1, or 3.)
+
+```{r}
+unique(data$Pts)
+unique(data$xG.Pts)
+```
+The expected goals are floating point values, but there is no such concept as .1 of a goal.
+
+```{r}
+unique(data$xG)
+```
+The lower and upper bound for expected goals is -0.36 and 0.42 respectively.
+
+```{r}
+unique(data$Lower.xG)
+unique(data$Upper.xG)
+```
+There is missing data for Pts vs xG+ and Pts vs xG-. *Both of these can be computed using xG Pts and Pts features.*
+
+```{r}
+unique(data$Pts.vs.xG..ve)
+unique(data$Pts.vs.xG..ve.1)
+```
+
+There is a strong positive relationship between goals scored and expected goals scored for every team.
+
+```{r message=FALSE, warning=FALSE}
+cors <- cor(data[,c("GS", "GA", "Pts", "xG", "xGA", "Net.xG", "xG.Pts")])
+print(cors)
+
+library(corrplot)
+corrplot(cors)
+```
+

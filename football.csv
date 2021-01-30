@@ -1,0 +1,893 @@
+Team,AT,HT,Score,Date Range,Home Away,League,Season,Date,GS,GA,Pts,xG,xGA,Net xG,xG Pts,Lower xG,Upper xG,Pts vs xG,Pts vs xG +ve,Pts vs xG -ve
+Arsenal,Arsenal,Man United,1-0,TRUE,Away,English Premier League,2020/21,11/01/2020,1,0,3,1.1,0.4,0.7,3,-0.36,0.42,0,0,
+Arsenal,Arsenal,Man City,0-1,TRUE,Away,English Premier League,2020/21,10/17/2020,0,1,0,0.8,1.6,-0.8,0,-0.36,0.42,0,0,
+Arsenal,Arsenal,Liverpool,01-Mar,TRUE,Away,English Premier League,2020/21,9/28/2020,1,3,0,1.5,2.9,-1.4,0,-0.36,0.42,0,0,
+Arsenal,Arsenal,Fulham,3-0,TRUE,Away,English Premier League,2020/21,09/12/2020,3,0,3,3,0.1,2.9,3,-0.36,0.42,0,0,
+Arsenal,Arsenal,Aston Villa,0-1,TRUE,Away,English Premier League,2019/20,7/21/2020,0,1,0,0.9,0.5,0.4,1,-0.36,0.42,1,1,
+Arsenal,Arsenal,Sheffield United,0-1,TRUE,Away,English Premier League,2019/20,10/21/2019,0,1,0,1.1,0.8,0.3,1,-0.36,0.42,1,1,
+Arsenal,Arsenal,Leicester,0-2,TRUE,Away,English Premier League,2019/20,11/09/2019,0,2,0,1.4,1.5,-0.1,1,-0.36,0.42,1,1,
+Arsenal,Arsenal,Man City,0-3,TRUE,Away,English Premier League,2019/20,6/17/2020,0,3,0,0.7,2.9,-2.3,0,-0.36,0.42,0,0,
+Arsenal,Arsenal,Brighton,01-Feb,TRUE,Away,English Premier League,2019/20,6/20/2020,1,2,0,0.8,0.7,0.1,1,-0.36,0.42,1,1,
+Arsenal,Arsenal,Tottenham,01-Feb,TRUE,Away,English Premier League,2019/20,07/12/2020,1,2,0,0.7,2.5,-1.8,0,-0.36,0.42,0,0,
+Arsenal,Arsenal,Liverpool,01-Mar,TRUE,Away,English Premier League,2019/20,8/24/2019,1,3,0,0.8,3,-2.2,0,-0.36,0.42,0,0,
+Arsenal,Arsenal,Burnley,0-0,TRUE,Away,English Premier League,2019/20,02/02/2020,0,0,1,1.9,2.5,-0.6,0,-0.36,0.42,-1,,-1
+Arsenal,Arsenal,Everton,0-0,TRUE,Away,English Premier League,2019/20,12/21/2019,0,0,1,0.8,0.5,0.3,1,-0.36,0.42,0,0,
+Arsenal,Arsenal,Bournemouth,01-Jan,TRUE,Away,English Premier League,2019/20,12/26/2019,1,1,1,1.7,1.5,0.3,1,-0.36,0.42,0,0,
+Arsenal,Arsenal,Crystal Palace,01-Jan,TRUE,Away,English Premier League,2019/20,01/11/2020,1,1,1,1.2,0.4,0.8,3,-0.36,0.42,2,2,
+Arsenal,Arsenal,Man United,01-Jan,TRUE,Away,English Premier League,2019/20,9/30/2019,1,1,1,1.8,1.1,0.8,3,-0.36,0.42,2,2,
+Arsenal,Arsenal,Chelsea,02-Feb,TRUE,Away,English Premier League,2019/20,1/21/2020,2,2,1,0.5,3.2,-2.8,0,-0.36,0.42,-1,,-1
+Arsenal,Arsenal,Norwich,02-Feb,TRUE,Away,English Premier League,2019/20,12/01/2019,2,2,1,2.2,0.9,1.3,3,-0.36,0.42,2,2,
+Arsenal,Arsenal,Watford,02-Feb,TRUE,Away,English Premier League,2019/20,9/15/2019,2,2,1,0.9,3,-2.2,0,-0.36,0.42,-1,,-1
+Arsenal,Arsenal,Newcastle,1-0,TRUE,Away,English Premier League,2019/20,08/11/2019,1,0,3,0.9,0.4,0.5,3,-0.36,0.42,0,0,
+Arsenal,Arsenal,Southampton,2-0,TRUE,Away,English Premier League,2019/20,6/25/2020,2,0,3,2.2,0.8,1.4,3,-0.36,0.42,0,0,
+Arsenal,Arsenal,Wolves,2-0,TRUE,Away,English Premier League,2019/20,07/04/2020,2,0,3,1.5,1,0.5,3,-0.36,0.42,0,0,
+Arsenal,Arsenal,West Ham,03-Jan,TRUE,Away,English Premier League,2019/20,12/09/2019,3,1,3,1.8,0.6,1.1,3,-0.36,0.42,0,0,
+Arsenal,Leicester,Arsenal,0-1,TRUE,Home,English Premier League,2020/21,10/25/2020,0,1,0,1,0.8,0.2,1,-0.36,0.42,1,1,
+Arsenal,Man City,Arsenal,0-3,TRUE,Home,English Premier League,2019/20,12/15/2019,0,3,0,0.3,1.7,-1.4,0,-0.36,0.42,0,0,
+Arsenal,Brighton,Arsenal,01-Feb,TRUE,Home,English Premier League,2019/20,12/05/2019,1,2,0,1,1.6,-0.6,0,-0.36,0.42,0,0,
+Arsenal,Chelsea,Arsenal,01-Feb,TRUE,Home,English Premier League,2019/20,12/29/2019,1,2,0,0.9,1.7,-0.8,0,-0.36,0.42,0,0,
+Arsenal,Leicester,Arsenal,01-Jan,TRUE,Home,English Premier League,2019/20,07/07/2020,1,1,1,1.3,1.3,0.1,1,-0.36,0.42,0,0,
+Arsenal,Sheffield United,Arsenal,01-Jan,TRUE,Home,English Premier League,2019/20,1/18/2020,1,1,1,1.1,1.1,0,1,-0.36,0.42,0,0,
+Arsenal,Wolves,Arsenal,01-Jan,TRUE,Home,English Premier League,2019/20,11/02/2019,1,1,1,1.1,1.5,-0.5,0,-0.36,0.42,-1,,-1
+Arsenal,Crystal Palace,Arsenal,02-Feb,TRUE,Home,English Premier League,2019/20,10/27/2019,2,2,1,1.5,2,-0.5,0,-0.36,0.42,-1,,-1
+Arsenal,Southampton,Arsenal,02-Feb,TRUE,Home,English Premier League,2019/20,11/23/2019,2,2,1,2.1,3,-0.9,0,-0.36,0.42,-1,,-1
+Arsenal,Tottenham,Arsenal,02-Feb,TRUE,Home,English Premier League,2019/20,09/01/2019,2,2,1,2.4,2.1,0.3,1,-0.36,0.42,0,0,
+Arsenal,Bournemouth,Arsenal,1-0,TRUE,Home,English Premier League,2019/20,10/06/2019,1,0,3,1.2,0.7,0.5,3,-0.36,0.42,0,0,
+Arsenal,West Ham,Arsenal,1-0,TRUE,Home,English Premier League,2019/20,03/07/2020,1,0,3,1.7,1.6,0.2,1,-0.36,0.42,-2,,-2
+Arsenal,Man United,Arsenal,2-0,TRUE,Home,English Premier League,2019/20,01/01/2020,2,0,3,1.5,0.8,0.7,3,-0.36,0.42,0,0,
+Arsenal,Burnley,Arsenal,02-Jan,TRUE,Home,English Premier League,2019/20,8/17/2019,2,1,3,1.3,1.3,-0.1,1,-0.36,0.42,-2,,-2
+Arsenal,Liverpool,Arsenal,02-Jan,TRUE,Home,English Premier League,2019/20,7/15/2020,2,1,3,1.2,3.1,-1.9,0,-0.36,0.42,-3,,-3
+Arsenal,Sheffield United,Arsenal,02-Jan,TRUE,Home,English Premier League,2020/21,10/04/2020,2,1,3,0.6,0.2,0.4,1,-0.36,0.42,-2,,-2
+Arsenal,West Ham,Arsenal,02-Jan,TRUE,Home,English Premier League,2020/21,9/19/2020,2,1,3,1.3,2.2,-0.8,0,-0.36,0.42,-3,,-3
+Arsenal,Aston Villa,Arsenal,03-Feb,TRUE,Home,English Premier League,2019/20,9/22/2019,3,2,3,2.3,1.8,0.5,3,-0.36,0.42,0,0,
+Arsenal,Everton,Arsenal,03-Feb,TRUE,Home,English Premier League,2019/20,2/23/2020,3,2,3,1.3,2.1,-0.8,0,-0.36,0.42,-3,,-3
+Arsenal,Watford,Arsenal,03-Feb,TRUE,Home,English Premier League,2019/20,7/26/2020,3,2,3,2.1,4.1,-2.1,0,-0.36,0.42,-3,,-3
+Arsenal,Newcastle,Arsenal,4-0,TRUE,Home,English Premier League,2019/20,2/16/2020,4,0,3,2.9,1,1.9,3,-0.36,0.42,0,0,
+Arsenal,Norwich,Arsenal,4-0,TRUE,Home,English Premier League,2019/20,07/01/2020,4,0,3,1.7,0.2,1.5,3,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Leicester,1-0,TRUE,Away,English Premier League,2020/21,10/18/2020,1,0,3,1,0.6,0.3,1,-0.36,0.42,-2,,-2
+Aston Villa,Aston Villa,Fulham,3-0,TRUE,Away,English Premier League,2020/21,9/28/2020,3,0,3,2,0.6,1.4,3,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Crystal Palace,0-1,TRUE,Away,English Premier League,2019/20,8/31/2019,0,1,0,0.4,1.6,-1.2,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Liverpool,0-2,TRUE,Away,English Premier League,2019/20,07/05/2020,0,2,0,0.6,1.3,-0.7,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Sheffield United,0-2,TRUE,Away,English Premier League,2019/20,12/14/2019,0,2,0,1.1,2,-0.9,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Southampton,0-2,TRUE,Away,English Premier League,2019/20,2/22/2020,0,2,0,0.3,2.6,-2.3,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Man City,0-3,TRUE,Away,English Premier League,2019/20,10/26/2019,0,3,0,1.3,3.2,-1.9,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Watford,0-3,TRUE,Away,English Premier League,2019/20,12/28/2019,0,3,0,0.7,3.4,-2.7,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Leicester,0-4,TRUE,Away,English Premier League,2019/20,03/09/2020,0,4,0,0.7,2.1,-1.4,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Bournemouth,01-Feb,TRUE,Away,English Premier League,2019/20,02/01/2020,1,2,0,1.6,2.7,-1.1,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Chelsea,01-Feb,TRUE,Away,English Premier League,2019/20,12/04/2019,1,2,0,1,1.9,-0.9,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Wolves,01-Feb,TRUE,Away,English Premier League,2019/20,11/10/2019,1,2,0,0.6,2,-1.4,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Tottenham,01-Mar,TRUE,Away,English Premier League,2019/20,08/10/2019,1,3,0,0.7,3.1,-2.4,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Arsenal,02-Mar,TRUE,Away,English Premier League,2019/20,9/22/2019,2,3,0,1.8,2.3,-0.5,0,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Brighton,01-Jan,TRUE,Away,English Premier League,2019/20,1/18/2020,1,1,1,0.6,1.2,-0.6,0,-0.36,0.42,-1,,-1
+Aston Villa,Aston Villa,Everton,01-Jan,TRUE,Away,English Premier League,2019/20,7/16/2020,1,1,1,1.3,1.1,0.2,1,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Newcastle,01-Jan,TRUE,Away,English Premier League,2019/20,6/24/2020,1,1,1,1.3,0.7,0.6,3,-0.36,0.42,2,2,
+Aston Villa,Aston Villa,West Ham,01-Jan,TRUE,Away,English Premier League,2019/20,7/26/2020,1,1,1,0.9,0.8,0.1,1,-0.36,0.42,0,0,
+Aston Villa,Aston Villa,Man United,02-Feb,TRUE,Away,English Premier League,2019/20,12/01/2019,2,2,1,1.3,2,-0.7,0,-0.36,0.42,-1,,-1
+Aston Villa,Aston Villa,Burnley,02-Jan,TRUE,Away,English Premier League,2019/20,01/01/2020,2,1,3,1.4,2.5,-1.1,0,-0.36,0.42,-3,,-3
+Aston Villa,Aston Villa,Norwich,05-Jan,TRUE,Away,English Premier League,2019/20,10/05/2019,5,1,3,4,2.4,1.6,3,-0.36,0.42,0,0,
+Aston Villa,Wolves,Aston Villa,0-1,TRUE,Home,English Premier League,2019/20,6/27/2020,0,1,0,0.5,0.6,-0.1,1,-0.36,0.42,1,1,
+Aston Villa,Man United,Aston Villa,0-3,TRUE,Home,English Premier League,2019/20,07/09/2020,0,3,0,0.6,2.5,-1.9,0,-0.36,0.42,0,0,
+Aston Villa,Leeds,Aston Villa,0-3,TRUE,Home,English Premier League,2020/21,10/23/2020,0,3,0,1.6,2.3,-0.7,0,-0.36,0.42,0,0,
+Aston Villa,Bournemouth,Aston Villa,01-Feb,TRUE,Home,English Premier League,2019/20,8/17/2019,1,2,0,2.1,1.6,0.5,3,-0.36,0.42,3,3,
+Aston Villa,Chelsea,Aston Villa,01-Feb,TRUE,Home,English Premier League,2019/20,6/21/2020,1,2,0,1.8,1.4,0.5,3,-0.36,0.42,3,3,
+Aston Villa,Liverpool,Aston Villa,01-Feb,TRUE,Home,English Premier League,2019/20,11/02/2019,1,2,0,0.9,3,-2.1,0,-0.36,0.42,0,0,
+Aston Villa,Southampton,Aston Villa,01-Mar,TRUE,Home,English Premier League,2019/20,12/21/2019,1,3,0,1.3,2.6,-1.3,0,-0.36,0.42,0,0,
+Aston Villa,Leicester,Aston Villa,01-Apr,TRUE,Home,English Premier League,2019/20,12/08/2019,1,4,0,1.3,3.6,-2.3,0,-0.36,0.42,0,0,
+Aston Villa,Man City,Aston Villa,01-Jun,TRUE,Home,English Premier League,2019/20,01/12/2020,1,6,0,1.1,3.2,-2.1,0,-0.36,0.42,0,0,
+Aston Villa,Tottenham,Aston Villa,02-Mar,TRUE,Home,English Premier League,2019/20,2/16/2020,2,3,0,2,4.5,-2.6,0,-0.36,0.42,0,0,
+Aston Villa,Southampton,Aston Villa,03-Apr,TRUE,Home,English Premier League,2020/21,11/01/2020,3,4,0,2.3,0.9,1.5,3,-0.36,0.42,3,3,
+Aston Villa,Sheffield United,Aston Villa,0-0,TRUE,Home,English Premier League,2019/20,6/17/2020,0,0,1,1.4,0.4,1,3,-0.36,0.42,2,2,
+Aston Villa,West Ham,Aston Villa,0-0,TRUE,Home,English Premier League,2019/20,9/16/2019,0,0,1,1.5,0.6,0.9,3,-0.36,0.42,2,2,
+Aston Villa,Burnley,Aston Villa,02-Feb,TRUE,Home,English Premier League,2019/20,9/28/2019,2,2,1,1.1,1.8,-0.7,0,-0.36,0.42,-1,,-1
+Aston Villa,Arsenal,Aston Villa,1-0,TRUE,Home,English Premier League,2019/20,7/21/2020,1,0,3,0.5,0.9,-0.4,0,-0.36,0.42,-3,,-3
+Aston Villa,Norwich,Aston Villa,1-0,TRUE,Home,English Premier League,2019/20,12/26/2019,1,0,3,0.7,1.5,-0.8,0,-0.36,0.42,-3,,-3
+Aston Villa,Sheffield United,Aston Villa,1-0,TRUE,Home,English Premier League,2020/21,9/21/2020,1,0,3,0.9,0.9,0,1,-0.36,0.42,-2,,-2
+Aston Villa,Crystal Palace,Aston Villa,2-0,TRUE,Home,English Premier League,2019/20,07/12/2020,2,0,3,1.7,1,0.7,3,-0.36,0.42,0,0,
+Aston Villa,Everton,Aston Villa,2-0,TRUE,Home,English Premier League,2019/20,8/23/2019,2,0,3,0.6,1.4,-0.9,0,-0.36,0.42,-3,,-3
+Aston Villa,Newcastle,Aston Villa,2-0,TRUE,Home,English Premier League,2019/20,11/25/2019,2,0,3,2.3,0.9,1.4,3,-0.36,0.42,0,0,
+Aston Villa,Brighton,Aston Villa,02-Jan,TRUE,Home,English Premier League,2019/20,10/19/2019,2,1,3,3.1,1.3,1.9,3,-0.36,0.42,0,0,
+Aston Villa,Watford,Aston Villa,02-Jan,TRUE,Home,English Premier League,2019/20,1/21/2020,2,1,3,1.4,1.7,-0.4,0,-0.36,0.42,-3,,-3
+Aston Villa,Liverpool,Aston Villa,07-Feb,TRUE,Home,English Premier League,2020/21,10/04/2020,7,2,3,3.2,2,1.2,3,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Arsenal,0-1,TRUE,Away,English Premier League,2019/20,10/06/2019,0,1,0,0.7,1.2,-0.5,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Crystal Palace,0-1,TRUE,Away,English Premier League,2019/20,12/03/2019,0,1,0,0.4,0.4,-0.1,1,-0.36,0.42,1,1,
+Bournemouth,Bournemouth,Norwich,0-1,TRUE,Away,English Premier League,2019/20,1/18/2020,0,1,0,0.7,1.7,-1.1,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Wolves,0-1,TRUE,Away,English Premier League,2019/20,6/24/2020,0,1,0,0.1,0.8,-0.7,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Brighton,0-2,TRUE,Away,English Premier League,2019/20,12/28/2019,0,2,0,0.6,0.8,-0.2,1,-0.36,0.42,1,1,
+Bournemouth,Bournemouth,Burnley,0-3,TRUE,Away,English Premier League,2019/20,2/22/2020,0,3,0,2,3.3,-1.3,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,West Ham,0-4,TRUE,Away,English Premier League,2019/20,01/01/2020,0,4,0,0.6,2.1,-1.5,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Liverpool,01-Feb,TRUE,Away,English Premier League,2019/20,03/07/2020,1,2,0,1.4,2.2,-0.8,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Man City,01-Feb,TRUE,Away,English Premier League,2019/20,7/15/2020,1,2,0,2.1,0.6,1.5,3,-0.36,0.42,3,3,
+Bournemouth,Bournemouth,Newcastle,01-Feb,TRUE,Away,English Premier League,2019/20,11/09/2019,1,2,0,2,2.1,-0.1,1,-0.36,0.42,1,1,
+Bournemouth,Bournemouth,Sheffield United,01-Feb,TRUE,Away,English Premier League,2019/20,02/09/2020,1,2,0,1.3,1.9,-0.6,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Leicester,01-Mar,TRUE,Away,English Premier League,2019/20,8/31/2019,1,3,0,0.6,1.8,-1.2,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Tottenham,02-Mar,TRUE,Away,English Premier League,2019/20,11/30/2019,2,3,0,1.1,3.1,-2.1,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Man United,02-May,TRUE,Away,English Premier League,2019/20,07/04/2020,2,5,0,1.7,2.5,-0.9,0,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Watford,0-0,TRUE,Away,English Premier League,2019/20,10/26/2019,0,0,1,1.1,0.7,0.4,1,-0.36,0.42,0,0,
+Bournemouth,Bournemouth,Chelsea,1-0,TRUE,Away,English Premier League,2019/20,12/14/2019,1,0,3,1.3,2.2,-0.9,0,-0.36,0.42,-3,,-3
+Bournemouth,Bournemouth,Aston Villa,02-Jan,TRUE,Away,English Premier League,2019/20,8/17/2019,2,1,3,1.6,2.1,-0.5,0,-0.36,0.42,-3,,-3
+Bournemouth,Bournemouth,Everton,03-Jan,TRUE,Away,English Premier League,2019/20,7/26/2020,3,1,3,1.7,1.6,0,1,-0.36,0.42,-2,,-2
+Bournemouth,Bournemouth,Southampton,03-Jan,TRUE,Away,English Premier League,2019/20,9/20/2019,3,1,3,1.3,2.6,-1.3,0,-0.36,0.42,-3,,-3
+Bournemouth,Burnley,Bournemouth,0-1,TRUE,Home,English Premier League,2019/20,12/21/2019,0,1,0,0.2,0.2,-0.1,1,-0.36,0.42,1,1,
+Bournemouth,Crystal Palace,Bournemouth,0-2,TRUE,Home,English Premier League,2019/20,6/20/2020,0,2,0,0.5,0.9,-0.4,0,-0.36,0.42,0,0,
+Bournemouth,Southampton,Bournemouth,0-2,TRUE,Home,English Premier League,2019/20,7/19/2020,0,2,0,0.6,2.4,-1.9,0,-0.36,0.42,0,0,
+Bournemouth,Liverpool,Bournemouth,0-3,TRUE,Home,English Premier League,2019/20,12/07/2019,0,3,0,0.2,3,-2.8,0,-0.36,0.42,0,0,
+Bournemouth,Watford,Bournemouth,0-3,TRUE,Home,English Premier League,2019/20,01/12/2020,0,3,0,0.4,2.3,-2,0,-0.36,0.42,0,0,
+Bournemouth,Wolves,Bournemouth,01-Feb,TRUE,Home,English Premier League,2019/20,11/23/2019,1,2,0,0.9,1.3,-0.4,0,-0.36,0.42,0,0,
+Bournemouth,Man City,Bournemouth,01-Mar,TRUE,Home,English Premier League,2019/20,8/25/2019,1,3,0,2,3.4,-1.4,0,-0.36,0.42,0,0,
+Bournemouth,Newcastle,Bournemouth,01-Apr,TRUE,Home,English Premier League,2019/20,07/01/2020,1,4,0,1.2,2,-0.8,0,-0.36,0.42,0,0,
+Bournemouth,Norwich,Bournemouth,0-0,TRUE,Home,English Premier League,2019/20,10/19/2019,0,0,1,0.7,0.5,0.2,1,-0.36,0.42,0,0,
+Bournemouth,Tottenham,Bournemouth,0-0,TRUE,Home,English Premier League,2019/20,07/09/2020,0,0,1,1.3,0.6,0.6,3,-0.36,0.42,2,2,
+Bournemouth,Arsenal,Bournemouth,01-Jan,TRUE,Home,English Premier League,2019/20,12/26/2019,1,1,1,1.5,1.7,-0.3,1,-0.36,0.42,0,0,
+Bournemouth,Sheffield United,Bournemouth,01-Jan,TRUE,Home,English Premier League,2019/20,08/10/2019,1,1,1,1.5,1.3,0.2,1,-0.36,0.42,0,0,
+Bournemouth,Chelsea,Bournemouth,02-Feb,TRUE,Home,English Premier League,2019/20,2/29/2020,2,2,1,1.6,2.1,-0.6,0,-0.36,0.42,-1,,-1
+Bournemouth,West Ham,Bournemouth,02-Feb,TRUE,Home,English Premier League,2019/20,9/28/2019,2,2,1,2.5,1.7,0.9,3,-0.36,0.42,2,2,
+Bournemouth,Man United,Bournemouth,1-0,TRUE,Home,English Premier League,2019/20,11/02/2019,1,0,3,2.1,0.8,1.3,3,-0.36,0.42,0,0,
+Bournemouth,Aston Villa,Bournemouth,02-Jan,TRUE,Home,English Premier League,2019/20,02/01/2020,2,1,3,2.7,1.6,1.1,3,-0.36,0.42,0,0,
+Bournemouth,Brighton,Bournemouth,03-Jan,TRUE,Home,English Premier League,2019/20,1/21/2020,3,1,3,1.7,2.2,-0.5,0,-0.36,0.42,-3,,-3
+Bournemouth,Everton,Bournemouth,03-Jan,TRUE,Home,English Premier League,2019/20,9/15/2019,3,1,3,1.3,1.6,-0.3,1,-0.36,0.42,-2,,-2
+Bournemouth,Leicester,Bournemouth,04-Jan,TRUE,Home,English Premier League,2019/20,07/12/2020,4,1,3,2.4,1.5,0.9,3,-0.36,0.42,0,0,
+Brighton,Brighton,Tottenham,01-Feb,TRUE,Away,English Premier League,2020/21,11/01/2020,1,2,0,0.3,2.1,-1.8,0,-0.36,0.42,0,0,
+Brighton,Brighton,Crystal Palace,01-Jan,TRUE,Away,English Premier League,2020/21,10/18/2020,1,1,1,1.5,0.8,0.7,3,-0.36,0.42,2,2,
+Brighton,Brighton,Everton,02-Apr,TRUE,Away,English Premier League,2020/21,10/03/2020,2,4,0,1.3,2.9,-1.6,0,-0.36,0.42,0,0,
+Brighton,Brighton,Newcastle,3-0,TRUE,Away,English Premier League,2020/21,9/20/2020,3,0,3,1.9,0.6,1.3,3,-0.36,0.42,0,0,
+Brighton,Brighton,Everton,0-1,TRUE,Away,English Premier League,2019/20,01/11/2020,0,1,0,1.7,1.3,0.3,1,-0.36,0.42,1,1,
+Brighton,Brighton,Chelsea,0-2,TRUE,Away,English Premier League,2019/20,9/28/2019,0,2,0,0.8,4.4,-3.7,0,-0.36,0.42,0,0,
+Brighton,Brighton,Man City,0-4,TRUE,Away,English Premier League,2019/20,8/31/2019,0,4,0,1.1,2.4,-1.3,0,-0.36,0.42,0,0,
+Brighton,Brighton,Aston Villa,01-Feb,TRUE,Away,English Premier League,2019/20,10/19/2019,1,2,0,1.3,3.1,-1.9,0,-0.36,0.42,0,0,
+Brighton,Brighton,Liverpool,01-Feb,TRUE,Away,English Premier League,2019/20,11/30/2019,1,2,0,1,1.6,-0.6,0,-0.36,0.42,0,0,
+Brighton,Brighton,Tottenham,01-Feb,TRUE,Away,English Premier League,2019/20,12/26/2019,1,2,0,1.3,1.2,0.1,1,-0.36,0.42,1,1,
+Brighton,Brighton,Bournemouth,01-Mar,TRUE,Away,English Premier League,2019/20,1/21/2020,1,3,0,2.2,1.7,0.5,3,-0.36,0.42,3,3,
+Brighton,Brighton,Man United,01-Mar,TRUE,Away,English Premier League,2019/20,11/10/2019,1,3,0,1.1,3.4,-2.3,0,-0.36,0.42,0,0,
+Brighton,Brighton,Leicester,0-0,TRUE,Away,English Premier League,2019/20,6/23/2020,0,0,1,1.1,0.7,0.4,3,-0.36,0.42,2,2,
+Brighton,Brighton,Newcastle,0-0,TRUE,Away,English Premier League,2019/20,9/21/2019,0,0,1,1.4,0.8,0.6,3,-0.36,0.42,2,2,
+Brighton,Brighton,Wolves,0-0,TRUE,Away,English Premier League,2019/20,03/07/2020,0,0,1,0.3,0.8,-0.5,0,-0.36,0.42,-1,,-1
+Brighton,Brighton,Crystal Palace,01-Jan,TRUE,Away,English Premier League,2019/20,12/16/2019,1,1,1,2.1,0.7,1.4,3,-0.36,0.42,2,2,
+Brighton,Brighton,Sheffield United,01-Jan,TRUE,Away,English Premier League,2019/20,2/22/2020,1,1,1,1.1,2.1,-1,0,-0.36,0.42,-1,,-1
+Brighton,Brighton,Southampton,01-Jan,TRUE,Away,English Premier League,2019/20,7/16/2020,1,1,1,0.9,2.4,-1.5,0,-0.36,0.42,-1,,-1
+Brighton,Brighton,West Ham,03-Mar,TRUE,Away,English Premier League,2019/20,02/01/2020,3,3,1,2.1,1.4,0.7,3,-0.36,0.42,2,2,
+Brighton,Brighton,Norwich,1-0,TRUE,Away,English Premier League,2019/20,07/04/2020,1,0,3,1.1,0.6,0.5,3,-0.36,0.42,0,0,
+Brighton,Brighton,Arsenal,02-Jan,TRUE,Away,English Premier League,2019/20,12/05/2019,2,1,3,1.6,1,0.6,3,-0.36,0.42,0,0,
+Brighton,Brighton,Burnley,02-Jan,TRUE,Away,English Premier League,2019/20,7/26/2020,2,1,3,1.5,1.7,-0.3,1,-0.36,0.42,-2,,-2
+Brighton,Brighton,Watford,3-0,TRUE,Away,English Premier League,2019/20,08/10/2019,3,0,3,0.7,0.7,0,1,-0.36,0.42,-2,,-2
+Brighton,Crystal Palace,Brighton,0-1,TRUE,Home,English Premier League,2019/20,2/29/2020,0,1,0,2.1,2.4,-0.4,1,-0.36,0.42,1,1,
+Brighton,Sheffield United,Brighton,0-1,TRUE,Home,English Premier League,2019/20,12/21/2019,0,1,0,0.5,1.1,-0.6,0,-0.36,0.42,0,0,
+Brighton,Leicester,Brighton,0-2,TRUE,Home,English Premier League,2019/20,11/23/2019,0,2,0,0.8,3.9,-3.1,0,-0.36,0.42,0,0,
+Brighton,Southampton,Brighton,0-2,TRUE,Home,English Premier League,2019/20,8/24/2019,0,2,0,1.2,1.9,-0.6,0,-0.36,0.42,0,0,
+Brighton,Man United,Brighton,0-3,TRUE,Home,English Premier League,2019/20,6/30/2020,0,3,0,0.4,1.1,-0.8,0,-0.36,0.42,0,0,
+Brighton,Man City,Brighton,0-5,TRUE,Home,English Premier League,2019/20,07/11/2020,0,5,0,0.1,5.1,-5,0,-0.36,0.42,0,0,
+Brighton,Liverpool,Brighton,01-Mar,TRUE,Home,English Premier League,2019/20,07/08/2020,1,3,0,2.8,2.6,0.2,1,-0.36,0.42,1,1,
+Brighton,Chelsea,Brighton,01-Mar,TRUE,Home,English Premier League,2020/21,9/14/2020,1,3,0,1.9,1.2,0.6,3,-0.36,0.42,3,3,
+Brighton,Man United,Brighton,02-Mar,TRUE,Home,English Premier League,2020/21,9/26/2020,2,3,0,3,1.6,1.4,3,-0.36,0.42,3,3,
+Brighton,Newcastle,Brighton,0-0,TRUE,Home,English Premier League,2019/20,7/20/2020,0,0,1,0.9,1.3,-0.4,0,-0.36,0.42,-1,,-1
+Brighton,Aston Villa,Brighton,01-Jan,TRUE,Home,English Premier League,2019/20,1/18/2020,1,1,1,1.2,0.6,0.6,3,-0.36,0.42,2,2,
+Brighton,Burnley,Brighton,01-Jan,TRUE,Home,English Premier League,2019/20,9/14/2019,1,1,1,1.5,0.5,1.1,3,-0.36,0.42,2,2,
+Brighton,Chelsea,Brighton,01-Jan,TRUE,Home,English Premier League,2019/20,01/01/2020,1,1,1,1.7,1.4,0.4,1,-0.36,0.42,0,0,
+Brighton,Watford,Brighton,01-Jan,TRUE,Home,English Premier League,2019/20,02/08/2020,1,1,1,0.9,0.3,0.6,3,-0.36,0.42,2,2,
+Brighton,West Ham,Brighton,01-Jan,TRUE,Home,English Premier League,2019/20,8/17/2019,1,1,1,2.3,0.5,1.8,3,-0.36,0.42,2,2,
+Brighton,West Brom,Brighton,01-Jan,TRUE,Home,English Premier League,2020/21,10/26/2020,1,1,1,0.6,0.4,0.3,1,-0.36,0.42,0,0,
+Brighton,Wolves,Brighton,02-Feb,TRUE,Home,English Premier League,2019/20,12/08/2019,2,2,1,1,2,-1,0,-0.36,0.42,-1,,-1
+Brighton,Bournemouth,Brighton,2-0,TRUE,Home,English Premier League,2019/20,12/28/2019,2,0,3,0.8,0.6,0.2,1,-0.36,0.42,-2,,-2
+Brighton,Norwich,Brighton,2-0,TRUE,Home,English Premier League,2019/20,11/02/2019,2,0,3,3,0.5,2.5,3,-0.36,0.42,0,0,
+Brighton,Arsenal,Brighton,02-Jan,TRUE,Home,English Premier League,2019/20,6/20/2020,2,1,3,0.7,0.8,-0.1,1,-0.36,0.42,-2,,-2
+Brighton,Tottenham,Brighton,3-0,TRUE,Home,English Premier League,2019/20,10/05/2019,3,0,3,2.2,0.5,1.7,3,-0.36,0.42,0,0,
+Brighton,Everton,Brighton,03-Feb,TRUE,Home,English Premier League,2019/20,10/26/2019,3,2,3,1.2,1,0.2,1,-0.36,0.42,-2,,-2
+Burnley,Burnley,West Brom,0-0,TRUE,Away,English Premier League,2020/21,10/19/2020,0,0,1,1.2,0.8,0.4,1,-0.36,0.42,0,0,
+Burnley,Burnley,Newcastle,01-Mar,TRUE,Away,English Premier League,2020/21,10/03/2020,1,3,0,0.6,2,-1.4,0,-0.36,0.42,0,0,
+Burnley,Burnley,Leicester,02-Apr,TRUE,Away,English Premier League,2020/21,9/20/2020,2,4,0,1.7,1,0.7,3,-0.36,0.42,3,3,
+Burnley,Burnley,Everton,0-1,TRUE,Away,English Premier League,2019/20,12/26/2019,0,1,0,0.7,1.5,-0.9,0,-0.36,0.42,0,0,
+Burnley,Burnley,Chelsea,0-3,TRUE,Away,English Premier League,2019/20,01/11/2020,0,3,0,0.6,2.9,-2.4,0,-0.36,0.42,0,0,
+Burnley,Burnley,Sheffield United,0-3,TRUE,Away,English Premier League,2019/20,11/02/2019,0,3,0,0.8,2.8,-2,0,-0.36,0.42,0,0,
+Burnley,Burnley,Man City,0-5,TRUE,Away,English Premier League,2019/20,6/22/2020,0,5,0,0,2.7,-2.7,0,-0.36,0.42,0,0,
+Burnley,Burnley,Tottenham,0-5,TRUE,Away,English Premier League,2019/20,12/07/2019,0,5,0,1,2.6,-1.7,0,-0.36,0.42,0,0,
+Burnley,Burnley,Arsenal,01-Feb,TRUE,Away,English Premier League,2019/20,8/17/2019,1,2,0,1.3,1.3,0.1,1,-0.36,0.42,1,1,
+Burnley,Burnley,Leicester,01-Feb,TRUE,Away,English Premier League,2019/20,10/19/2019,1,2,0,2.1,1.1,1,3,-0.36,0.42,3,3,
+Burnley,Burnley,Newcastle,0-0,TRUE,Away,English Premier League,2019/20,2/29/2020,0,0,1,0.7,1.5,-0.8,0,-0.36,0.42,-1,,-1
+Burnley,Burnley,Brighton,01-Jan,TRUE,Away,English Premier League,2019/20,9/14/2019,1,1,1,0.5,1.5,-1.1,0,-0.36,0.42,-1,,-1
+Burnley,Burnley,Liverpool,01-Jan,TRUE,Away,English Premier League,2019/20,07/11/2020,1,1,1,0.6,2.4,-1.8,0,-0.36,0.42,-1,,-1
+Burnley,Burnley,Wolves,01-Jan,TRUE,Away,English Premier League,2019/20,8/25/2019,1,1,1,1.5,1.5,0,1,-0.36,0.42,0,0,
+Burnley,Burnley,Aston Villa,02-Feb,TRUE,Away,English Premier League,2019/20,9/28/2019,2,2,1,1.8,1.1,0.7,3,-0.36,0.42,2,2,
+Burnley,Burnley,Bournemouth,1-0,TRUE,Away,English Premier League,2019/20,12/21/2019,1,0,3,0.2,0.2,0.1,1,-0.36,0.42,-2,,-2
+Burnley,Burnley,Crystal Palace,1-0,TRUE,Away,English Premier League,2019/20,6/29/2020,1,0,3,0.4,1.2,-0.8,0,-0.36,0.42,-3,,-3
+Burnley,Burnley,West Ham,1-0,TRUE,Away,English Premier League,2019/20,07/08/2020,1,0,3,1,2.3,-1.3,0,-0.36,0.42,-3,,-3
+Burnley,Burnley,Man United,2-0,TRUE,Away,English Premier League,2019/20,1/22/2020,2,0,3,0.9,1.4,-0.5,0,-0.36,0.42,-3,,-3
+Burnley,Burnley,Norwich,2-0,TRUE,Away,English Premier League,2019/20,7/18/2020,2,0,3,1.9,0.6,1.3,3,-0.36,0.42,0,0,
+Burnley,Burnley,Southampton,02-Jan,TRUE,Away,English Premier League,2019/20,2/15/2020,2,1,3,0.9,0.6,0.3,1,-0.36,0.42,-2,,-2
+Burnley,Burnley,Watford,3-0,TRUE,Away,English Premier League,2019/20,11/23/2019,3,0,3,2.9,0.9,2,3,-0.36,0.42,0,0,
+Burnley,Southampton,Burnley,0-1,TRUE,Home,English Premier League,2020/21,9/26/2020,0,1,0,0.5,0.7,-0.2,1,-0.36,0.42,1,1,
+Burnley,Tottenham,Burnley,0-1,TRUE,Home,English Premier League,2020/21,10/26/2020,0,1,0,1.2,1.1,0.1,1,-0.36,0.42,1,1,
+Burnley,Crystal Palace,Burnley,0-2,TRUE,Home,English Premier League,2019/20,11/30/2019,0,2,0,2.2,0.9,1.3,3,-0.36,0.42,3,3,
+Burnley,Man United,Burnley,0-2,TRUE,Home,English Premier League,2019/20,12/28/2019,0,2,0,0.6,2.2,-1.5,0,-0.36,0.42,0,0,
+Burnley,Liverpool,Burnley,0-3,TRUE,Home,English Premier League,2019/20,8/31/2019,0,3,0,0.4,1.4,-1,0,-0.36,0.42,0,0,
+Burnley,Chelsea,Burnley,0-3,TRUE,Home,English Premier League,2020/21,10/31/2020,0,3,0,0.5,1.3,-0.8,0,-0.36,0.42,0,0,
+Burnley,Aston Villa,Burnley,01-Feb,TRUE,Home,English Premier League,2019/20,01/01/2020,1,2,0,2.5,1.4,1.1,3,-0.36,0.42,3,3,
+Burnley,Brighton,Burnley,01-Feb,TRUE,Home,English Premier League,2019/20,7/26/2020,1,2,0,1.7,1.5,0.3,1,-0.36,0.42,1,1,
+Burnley,Man City,Burnley,01-Apr,TRUE,Home,English Premier League,2019/20,12/03/2019,1,4,0,0.6,2.6,-1.9,0,-0.36,0.42,0,0,
+Burnley,Chelsea,Burnley,02-Apr,TRUE,Home,English Premier League,2019/20,10/26/2019,2,4,0,2.2,0.9,1.3,3,-0.36,0.42,3,3,
+Burnley,Arsenal,Burnley,0-0,TRUE,Home,English Premier League,2019/20,02/02/2020,0,0,1,2.5,1.9,0.6,3,-0.36,0.42,2,2,
+Burnley,Sheffield United,Burnley,01-Jan,TRUE,Home,English Premier League,2019/20,07/05/2020,1,1,1,1.4,1.5,-0.1,1,-0.36,0.42,0,0,
+Burnley,Tottenham,Burnley,01-Jan,TRUE,Home,English Premier League,2019/20,03/07/2020,1,1,1,3.3,1.2,2.1,3,-0.36,0.42,2,2,
+Burnley,Wolves,Burnley,01-Jan,TRUE,Home,English Premier League,2019/20,7/15/2020,1,1,1,1.6,1.3,0.3,1,-0.36,0.42,0,0,
+Burnley,Everton,Burnley,1-0,TRUE,Home,English Premier League,2019/20,10/05/2019,1,0,3,0.6,1.4,-0.8,0,-0.36,0.42,-3,,-3
+Burnley,Newcastle,Burnley,1-0,TRUE,Home,English Premier League,2019/20,12/14/2019,1,0,3,1.4,1.4,0,1,-0.36,0.42,-2,,-2
+Burnley,Watford,Burnley,1-0,TRUE,Home,English Premier League,2019/20,6/25/2020,1,0,3,0.9,0.6,0.3,1,-0.36,0.42,-2,,-2
+Burnley,Norwich,Burnley,2-0,TRUE,Home,English Premier League,2019/20,9/21/2019,2,0,3,2.4,0.8,1.7,3,-0.36,0.42,0,0,
+Burnley,Leicester,Burnley,02-Jan,TRUE,Home,English Premier League,2019/20,1/19/2020,2,1,3,1,2.3,-1.2,0,-0.36,0.42,-3,,-3
+Burnley,Bournemouth,Burnley,3-0,TRUE,Home,English Premier League,2019/20,2/22/2020,3,0,3,3.3,2,1.3,3,-0.36,0.42,0,0,
+Burnley,Southampton,Burnley,3-0,TRUE,Home,English Premier League,2019/20,08/10/2019,3,0,3,1,1.2,-0.2,1,-0.36,0.42,-2,,-2
+Burnley,West Ham,Burnley,3-0,TRUE,Home,English Premier League,2019/20,11/09/2019,3,0,3,2.1,0.5,1.6,3,-0.36,0.42,0,0,
+Chelsea,Chelsea,Burnley,3-0,TRUE,Away,English Premier League,2020/21,10/31/2020,3,0,3,1.3,0.5,0.8,3,-0.36,0.42,0,0,
+Chelsea,Chelsea,Man United,0-0,TRUE,Away,English Premier League,2020/21,10/24/2020,0,0,1,0.2,0.8,-0.6,0,-0.36,0.42,-1,,-1
+Chelsea,Chelsea,West Brom,03-Mar,TRUE,Away,English Premier League,2020/21,9/26/2020,3,3,1,2.5,0.8,1.7,3,-0.36,0.42,2,2,
+Chelsea,Chelsea,Brighton,03-Jan,TRUE,Away,English Premier League,2020/21,9/14/2020,3,1,3,1.2,1.9,-0.6,0,-0.36,0.42,-3,,-3
+Chelsea,Chelsea,Newcastle,0-1,TRUE,Away,English Premier League,2019/20,1/18/2020,0,1,0,2.2,0.8,1.3,3,-0.36,0.42,3,3,
+Chelsea,Chelsea,Sheffield United,0-3,TRUE,Away,English Premier League,2019/20,07/11/2020,0,3,0,1.3,1.9,-0.6,0,-0.36,0.42,0,0,
+Chelsea,Chelsea,Man United,0-4,TRUE,Away,English Premier League,2019/20,08/11/2019,0,4,0,1.3,2.3,-1.1,0,-0.36,0.42,0,0,
+Chelsea,Chelsea,Man City,01-Feb,TRUE,Away,English Premier League,2019/20,11/23/2019,1,2,0,1,1.3,-0.3,1,-0.36,0.42,1,1,
+Chelsea,Chelsea,Everton,01-Mar,TRUE,Away,English Premier League,2019/20,12/07/2019,1,3,0,1.4,1.8,-0.4,0,-0.36,0.42,0,0,
+Chelsea,Chelsea,West Ham,02-Mar,TRUE,Away,English Premier League,2019/20,07/01/2020,2,3,0,1.7,1.7,0,1,-0.36,0.42,1,1,
+Chelsea,Chelsea,Liverpool,03-May,TRUE,Away,English Premier League,2019/20,7/22/2020,3,5,0,3,1.6,1.4,3,-0.36,0.42,3,3,
+Chelsea,Chelsea,Brighton,01-Jan,TRUE,Away,English Premier League,2019/20,01/01/2020,1,1,1,1.4,1.7,-0.4,1,-0.36,0.42,0,0,
+Chelsea,Chelsea,Bournemouth,02-Feb,TRUE,Away,English Premier League,2019/20,2/29/2020,2,2,1,2.1,1.6,0.6,3,-0.36,0.42,2,2,
+Chelsea,Chelsea,Leicester,02-Feb,TRUE,Away,English Premier League,2019/20,02/01/2020,2,2,1,0.8,1.6,-0.8,0,-0.36,0.42,-1,,-1
+Chelsea,Chelsea,Tottenham,2-0,TRUE,Away,English Premier League,2019/20,12/22/2019,2,0,3,1.4,0.4,0.9,3,-0.36,0.42,0,0,
+Chelsea,Chelsea,Arsenal,02-Jan,TRUE,Away,English Premier League,2019/20,12/29/2019,2,1,3,1.7,0.9,0.8,3,-0.36,0.42,0,0,
+Chelsea,Chelsea,Aston Villa,02-Jan,TRUE,Away,English Premier League,2019/20,6/21/2020,2,1,3,1.4,1.8,-0.5,0,-0.36,0.42,-3,,-3
+Chelsea,Chelsea,Watford,02-Jan,TRUE,Away,English Premier League,2019/20,11/02/2019,2,1,3,2.1,1.2,0.9,3,-0.36,0.42,0,0,
+Chelsea,Chelsea,Crystal Palace,03-Feb,TRUE,Away,English Premier League,2019/20,07/07/2020,3,2,3,2.7,1.2,1.4,3,-0.36,0.42,0,0,
+Chelsea,Chelsea,Norwich,03-Feb,TRUE,Away,English Premier League,2019/20,8/24/2019,3,2,3,1.9,0.9,1,3,-0.36,0.42,0,0,
+Chelsea,Chelsea,Southampton,04-Jan,TRUE,Away,English Premier League,2019/20,10/06/2019,4,1,3,1.8,1.3,0.5,3,-0.36,0.42,0,0,
+Chelsea,Chelsea,Burnley,04-Feb,TRUE,Away,English Premier League,2019/20,10/26/2019,4,2,3,0.9,2.2,-1.3,0,-0.36,0.42,-3,,-3
+Chelsea,Chelsea,Wolves,05-Feb,TRUE,Away,English Premier League,2019/20,9/14/2019,5,2,3,2.5,1.6,1,3,-0.36,0.42,0,0,
+Chelsea,Bournemouth,Chelsea,0-1,TRUE,Home,English Premier League,2019/20,12/14/2019,0,1,0,2.2,1.3,0.9,3,-0.36,0.42,3,3,
+Chelsea,West Ham,Chelsea,0-1,TRUE,Home,English Premier League,2019/20,11/30/2019,0,1,0,3,1.1,1.9,3,-0.36,0.42,3,3,
+Chelsea,Man United,Chelsea,0-2,TRUE,Home,English Premier League,2019/20,2/17/2020,0,2,0,1.1,0.7,0.4,1,-0.36,0.42,1,1,
+Chelsea,Southampton,Chelsea,0-2,TRUE,Home,English Premier League,2019/20,12/26/2019,0,2,0,0.9,1,0,1,-0.36,0.42,1,1,
+Chelsea,Liverpool,Chelsea,0-2,TRUE,Home,English Premier League,2020/21,9/20/2020,0,2,0,0.9,1.7,-0.8,0,-0.36,0.42,0,0,
+Chelsea,Liverpool,Chelsea,01-Feb,TRUE,Home,English Premier League,2019/20,9/22/2019,1,2,0,1.8,1.3,0.5,3,-0.36,0.42,3,3,
+Chelsea,Leicester,Chelsea,01-Jan,TRUE,Home,English Premier League,2019/20,8/18/2019,1,1,1,1.2,1.1,0.1,1,-0.36,0.42,0,0,
+Chelsea,Arsenal,Chelsea,02-Feb,TRUE,Home,English Premier League,2019/20,1/21/2020,2,2,1,3.2,0.5,2.8,3,-0.36,0.42,2,2,
+Chelsea,Sheffield United,Chelsea,02-Feb,TRUE,Home,English Premier League,2019/20,8/31/2019,2,2,1,2.4,1.1,1.3,3,-0.36,0.42,2,2,
+Chelsea,Southampton,Chelsea,03-Mar,TRUE,Home,English Premier League,2020/21,10/17/2020,3,3,1,1.6,1.6,-0.1,1,-0.36,0.42,0,0,
+Chelsea,Newcastle,Chelsea,1-0,TRUE,Home,English Premier League,2019/20,10/19/2019,1,0,3,2.8,0.3,2.6,3,-0.36,0.42,0,0,
+Chelsea,Norwich,Chelsea,1-0,TRUE,Home,English Premier League,2019/20,7/14/2020,1,0,3,3.4,0.1,3.4,3,-0.36,0.42,0,0,
+Chelsea,Brighton,Chelsea,2-0,TRUE,Home,English Premier League,2019/20,9/28/2019,2,0,3,4.4,0.8,3.7,3,-0.36,0.42,0,0,
+Chelsea,Crystal Palace,Chelsea,2-0,TRUE,Home,English Premier League,2019/20,11/09/2019,2,0,3,3.6,0.5,3.1,3,-0.36,0.42,0,0,
+Chelsea,Wolves,Chelsea,2-0,TRUE,Home,English Premier League,2019/20,7/26/2020,2,0,3,0.9,0.2,0.7,3,-0.36,0.42,0,0,
+Chelsea,Aston Villa,Chelsea,02-Jan,TRUE,Home,English Premier League,2019/20,12/04/2019,2,1,3,1.9,1,0.9,3,-0.36,0.42,0,0,
+Chelsea,Man City,Chelsea,02-Jan,TRUE,Home,English Premier League,2019/20,6/25/2020,2,1,3,4.1,1,3.1,3,-0.36,0.42,0,0,
+Chelsea,Tottenham,Chelsea,02-Jan,TRUE,Home,English Premier League,2019/20,2/22/2020,2,1,3,1.6,0.3,1.4,3,-0.36,0.42,0,0,
+Chelsea,Burnley,Chelsea,3-0,TRUE,Home,English Premier League,2019/20,01/11/2020,3,0,3,2.9,0.6,2.4,3,-0.36,0.42,0,0,
+Chelsea,Watford,Chelsea,3-0,TRUE,Home,English Premier League,2019/20,07/04/2020,3,0,3,2.7,1.2,1.5,3,-0.36,0.42,0,0,
+Chelsea,Everton,Chelsea,4-0,TRUE,Home,English Premier League,2019/20,03/08/2020,4,0,3,2.3,0.5,1.8,3,-0.36,0.42,0,0,
+Chelsea,Crystal Palace,Chelsea,4-0,TRUE,Home,English Premier League,2020/21,10/03/2020,4,0,3,2.7,0.2,2.6,3,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Wolves,0-2,TRUE,Away,English Premier League,2020/21,10/30/2020,0,2,0,0.9,1.6,-0.8,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Fulham,02-Jan,TRUE,Away,English Premier League,2020/21,10/24/2020,2,1,3,2.5,1,1.5,3,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Chelsea,0-4,TRUE,Away,English Premier League,2020/21,10/03/2020,0,4,0,0.2,2.7,-2.6,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Man United,03-Jan,TRUE,Away,English Premier League,2020/21,9/19/2020,3,1,3,1.9,1.3,0.6,3,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Newcastle,0-1,TRUE,Away,English Premier League,2019/20,12/21/2019,0,1,0,1,0.7,0.3,1,-0.36,0.42,1,1,
+Crystal Palace,Crystal Palace,Sheffield United,0-1,TRUE,Away,English Premier League,2019/20,8/18/2019,0,1,0,0.3,2,-1.7,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Aston Villa,0-2,TRUE,Away,English Premier League,2019/20,07/12/2020,0,2,0,1,1.7,-0.7,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Chelsea,0-2,TRUE,Away,English Premier League,2019/20,11/09/2019,0,2,0,0.5,3.6,-3.1,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Wolves,0-2,TRUE,Away,English Premier League,2019/20,7/20/2020,0,2,0,0.5,1.4,-0.9,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Leicester,0-3,TRUE,Away,English Premier League,2019/20,07/04/2020,0,3,0,0.8,2.6,-1.8,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Liverpool,0-4,TRUE,Away,English Premier League,2019/20,6/24/2020,0,4,0,0.1,2.9,-2.8,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Tottenham,0-4,TRUE,Away,English Premier League,2019/20,9/14/2019,0,4,0,0.7,1.4,-0.6,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Everton,01-Mar,TRUE,Away,English Premier League,2019/20,02/08/2020,1,3,0,0.9,2.5,-1.6,0,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Watford,0-0,TRUE,Away,English Premier League,2019/20,12/07/2019,0,0,1,0.2,1.7,-1.5,0,-0.36,0.42,-1,,-1
+Crystal Palace,Crystal Palace,Norwich,01-Jan,TRUE,Away,English Premier League,2019/20,01/01/2020,1,1,1,1.4,1.7,-0.3,1,-0.36,0.42,0,0,
+Crystal Palace,Crystal Palace,Southampton,01-Jan,TRUE,Away,English Premier League,2019/20,12/28/2019,1,1,1,0.2,1.6,-1.3,0,-0.36,0.42,-1,,-1
+Crystal Palace,Crystal Palace,Arsenal,02-Feb,TRUE,Away,English Premier League,2019/20,10/27/2019,2,2,1,2,1.5,0.5,3,-0.36,0.42,2,2,
+Crystal Palace,Crystal Palace,Man City,02-Feb,TRUE,Away,English Premier League,2019/20,1/18/2020,2,2,1,0.7,3.1,-2.4,0,-0.36,0.42,-1,,-1
+Crystal Palace,Crystal Palace,Brighton,1-0,TRUE,Away,English Premier League,2019/20,2/29/2020,1,0,3,2.4,2.1,0.4,1,-0.36,0.42,-2,,-2
+Crystal Palace,Crystal Palace,Bournemouth,2-0,TRUE,Away,English Premier League,2019/20,6/20/2020,2,0,3,0.9,0.5,0.4,1,-0.36,0.42,-2,,-2
+Crystal Palace,Crystal Palace,Burnley,2-0,TRUE,Away,English Premier League,2019/20,11/30/2019,2,0,3,0.9,2.2,-1.3,0,-0.36,0.42,-3,,-3
+Crystal Palace,Crystal Palace,Man United,02-Jan,TRUE,Away,English Premier League,2019/20,8/24/2019,2,1,3,0.7,2.5,-1.8,0,-0.36,0.42,-3,,-3
+Crystal Palace,Crystal Palace,West Ham,02-Jan,TRUE,Away,English Premier League,2019/20,10/05/2019,2,1,3,2.1,1.4,0.8,3,-0.36,0.42,0,0,
+Crystal Palace,Burnley,Crystal Palace,0-1,TRUE,Home,English Premier League,2019/20,6/29/2020,0,1,0,1.2,0.4,0.8,3,-0.36,0.42,3,3,
+Crystal Palace,Sheffield United,Crystal Palace,0-1,TRUE,Home,English Premier League,2019/20,02/01/2020,0,1,0,1.1,0.8,0.3,1,-0.36,0.42,1,1,
+Crystal Palace,Leicester,Crystal Palace,0-2,TRUE,Home,English Premier League,2019/20,11/03/2019,0,2,0,0.5,1.3,-0.8,0,-0.36,0.42,0,0,
+Crystal Palace,Man City,Crystal Palace,0-2,TRUE,Home,English Premier League,2019/20,10/19/2019,0,2,0,0.9,3.9,-3,0,-0.36,0.42,0,0,
+Crystal Palace,Man United,Crystal Palace,0-2,TRUE,Home,English Premier League,2019/20,7/16/2020,0,2,0,0.6,1.9,-1.3,0,-0.36,0.42,0,0,
+Crystal Palace,Southampton,Crystal Palace,0-2,TRUE,Home,English Premier League,2019/20,1/21/2020,0,2,0,0.6,0.9,-0.3,1,-0.36,0.42,1,1,
+Crystal Palace,Liverpool,Crystal Palace,01-Feb,TRUE,Home,English Premier League,2019/20,11/23/2019,1,2,0,1.3,1.9,-0.6,0,-0.36,0.42,0,0,
+Crystal Palace,Everton,Crystal Palace,01-Feb,TRUE,Home,English Premier League,2020/21,9/26/2020,1,2,0,0.7,2.4,-1.7,0,-0.36,0.42,0,0,
+Crystal Palace,Chelsea,Crystal Palace,02-Mar,TRUE,Home,English Premier League,2019/20,07/07/2020,2,3,0,1.2,2.7,-1.4,0,-0.36,0.42,0,0,
+Crystal Palace,Everton,Crystal Palace,0-0,TRUE,Home,English Premier League,2019/20,08/10/2019,0,0,1,0.9,1.4,-0.5,0,-0.36,0.42,-1,,-1
+Crystal Palace,Arsenal,Crystal Palace,01-Jan,TRUE,Home,English Premier League,2019/20,01/11/2020,1,1,1,0.4,1.2,-0.8,0,-0.36,0.42,-1,,-1
+Crystal Palace,Brighton,Crystal Palace,01-Jan,TRUE,Home,English Premier League,2019/20,12/16/2019,1,1,1,0.7,2.1,-1.4,0,-0.36,0.42,-1,,-1
+Crystal Palace,Tottenham,Crystal Palace,01-Jan,TRUE,Home,English Premier League,2019/20,7/26/2020,1,1,1,1.2,0.4,0.8,3,-0.36,0.42,2,2,
+Crystal Palace,Wolves,Crystal Palace,01-Jan,TRUE,Home,English Premier League,2019/20,9/22/2019,1,1,1,1,1.7,-0.7,0,-0.36,0.42,-1,,-1
+Crystal Palace,Brighton,Crystal Palace,01-Jan,TRUE,Home,English Premier League,2020/21,10/18/2020,1,1,1,0.8,1.5,-0.7,0,-0.36,0.42,-1,,-1
+Crystal Palace,Aston Villa,Crystal Palace,1-0,TRUE,Home,English Premier League,2019/20,8/31/2019,1,0,3,1.6,0.4,1.2,3,-0.36,0.42,0,0,
+Crystal Palace,Bournemouth,Crystal Palace,1-0,TRUE,Home,English Premier League,2019/20,12/03/2019,1,0,3,0.4,0.4,0.1,1,-0.36,0.42,-2,,-2
+Crystal Palace,Newcastle,Crystal Palace,1-0,TRUE,Home,English Premier League,2019/20,2/22/2020,1,0,3,1.8,0.2,1.6,3,-0.36,0.42,0,0,
+Crystal Palace,Watford,Crystal Palace,1-0,TRUE,Home,English Premier League,2019/20,03/07/2020,1,0,3,0.7,0.6,0.1,1,-0.36,0.42,-2,,-2
+Crystal Palace,Southampton,Crystal Palace,1-0,TRUE,Home,English Premier League,2020/21,09/12/2020,1,0,3,1.5,1.2,0.4,1,-0.36,0.42,-2,,-2
+Crystal Palace,Norwich,Crystal Palace,2-0,TRUE,Home,English Premier League,2019/20,9/28/2019,2,0,3,1.6,0.8,0.9,3,-0.36,0.42,0,0,
+Crystal Palace,West Ham,Crystal Palace,02-Jan,TRUE,Home,English Premier League,2019/20,12/26/2019,2,1,3,2.5,0.9,1.6,3,-0.36,0.42,0,0,
+Everton,Everton,Newcastle,01-Feb,TRUE,Away,English Premier League,2020/21,11/01/2020,1,2,0,1.4,2.3,-0.9,0,-0.36,0.42,0,0,
+Everton,Everton,Southampton,0-2,TRUE,Away,English Premier League,2020/21,10/25/2020,0,2,0,0.5,0.6,-0.2,1,-0.36,0.42,1,1,
+Everton,Everton,Crystal Palace,02-Jan,TRUE,Away,English Premier League,2020/21,9/26/2020,2,1,3,2.4,0.7,1.7,3,-0.36,0.42,0,0,
+Everton,Everton,Tottenham,1-0,TRUE,Away,English Premier League,2020/21,9/13/2020,1,0,3,1.1,1,0.1,1,-0.36,0.42,-2,,-2
+Everton,Everton,Burnley,0-1,TRUE,Away,English Premier League,2019/20,10/05/2019,0,1,0,1.4,0.6,0.8,3,-0.36,0.42,3,3,
+Everton,Everton,Tottenham,0-1,TRUE,Away,English Premier League,2019/20,07/06/2020,0,1,0,0.5,0.6,-0.1,1,-0.36,0.42,1,1,
+Everton,Everton,Aston Villa,0-2,TRUE,Away,English Premier League,2019/20,8/23/2019,0,2,0,1.4,0.6,0.9,3,-0.36,0.42,3,3,
+Everton,Everton,Wolves,0-3,TRUE,Away,English Premier League,2019/20,07/12/2020,0,3,0,0.3,2.9,-2.5,0,-0.36,0.42,0,0,
+Everton,Everton,Chelsea,0-4,TRUE,Away,English Premier League,2019/20,03/08/2020,0,4,0,0.5,2.3,-1.8,0,-0.36,0.42,0,0,
+Everton,Everton,Leicester,01-Feb,TRUE,Away,English Premier League,2019/20,12/01/2019,1,2,0,1.3,2.7,-1.4,0,-0.36,0.42,0,0,
+Everton,Everton,Man City,01-Feb,TRUE,Away,English Premier League,2019/20,01/01/2020,1,2,0,1,1.8,-0.9,0,-0.36,0.42,0,0,
+Everton,Everton,Bournemouth,01-Mar,TRUE,Away,English Premier League,2019/20,9/15/2019,1,3,0,1.6,1.3,0.3,1,-0.36,0.42,1,1,
+Everton,Everton,Arsenal,02-Mar,TRUE,Away,English Premier League,2019/20,2/23/2020,2,3,0,2.1,1.3,0.8,3,-0.36,0.42,3,3,
+Everton,Everton,Brighton,02-Mar,TRUE,Away,English Premier League,2019/20,10/26/2019,2,3,0,1,1.2,-0.2,1,-0.36,0.42,1,1,
+Everton,Everton,Liverpool,02-May,TRUE,Away,English Premier League,2019/20,12/04/2019,2,5,0,1.8,2.6,-0.8,0,-0.36,0.42,0,0,
+Everton,Everton,Crystal Palace,0-0,TRUE,Away,English Premier League,2019/20,08/10/2019,0,0,1,1.4,0.9,0.5,3,-0.36,0.42,2,2,
+Everton,Everton,Man United,01-Jan,TRUE,Away,English Premier League,2019/20,12/15/2019,1,1,1,0.3,1.6,-1.3,0,-0.36,0.42,-1,,-1
+Everton,Everton,West Ham,01-Jan,TRUE,Away,English Premier League,2019/20,1/18/2020,1,1,1,1.7,1.3,0.3,1,-0.36,0.42,0,0,
+Everton,Everton,Norwich,1-0,TRUE,Away,English Premier League,2019/20,6/24/2020,1,0,3,0.7,0.5,0.3,1,-0.36,0.42,-2,,-2
+Everton,Everton,Sheffield United,1-0,TRUE,Away,English Premier League,2019/20,7/20/2020,1,0,3,0.7,0.7,0,1,-0.36,0.42,-2,,-2
+Everton,Everton,Newcastle,02-Jan,TRUE,Away,English Premier League,2019/20,12/28/2019,2,1,3,2.9,1.7,1.1,3,-0.36,0.42,0,0,
+Everton,Everton,Southampton,02-Jan,TRUE,Away,English Premier League,2019/20,11/09/2019,2,1,3,2.3,0.6,1.7,3,-0.36,0.42,0,0,
+Everton,Everton,Watford,03-Feb,TRUE,Away,English Premier League,2019/20,02/01/2020,3,2,3,2.7,0.9,1.8,3,-0.36,0.42,0,0,
+Everton,Norwich,Everton,0-2,TRUE,Home,English Premier League,2019/20,11/23/2019,0,2,0,1,1.7,-0.8,0,-0.36,0.42,0,0,
+Everton,Sheffield United,Everton,0-2,TRUE,Home,English Premier League,2019/20,9/21/2019,0,2,0,1.1,0.3,0.8,3,-0.36,0.42,3,3,
+Everton,Bournemouth,Everton,01-Mar,TRUE,Home,English Premier League,2019/20,7/26/2020,1,3,0,1.6,1.7,0,1,-0.36,0.42,1,1,
+Everton,Man City,Everton,01-Mar,TRUE,Home,English Premier League,2019/20,9/28/2019,1,3,0,2.3,3,-0.7,0,-0.36,0.42,0,0,
+Everton,Arsenal,Everton,0-0,TRUE,Home,English Premier League,2019/20,12/21/2019,0,0,1,0.5,0.8,-0.3,1,-0.36,0.42,0,0,
+Everton,Liverpool,Everton,0-0,TRUE,Home,English Premier League,2019/20,6/21/2020,0,0,1,0.7,0.7,0,1,-0.36,0.42,0,0,
+Everton,Aston Villa,Everton,01-Jan,TRUE,Home,English Premier League,2019/20,7/16/2020,1,1,1,1.1,1.3,-0.2,1,-0.36,0.42,0,0,
+Everton,Man United,Everton,01-Jan,TRUE,Home,English Premier League,2019/20,03/01/2020,1,1,1,2.2,1.1,1.1,3,-0.36,0.42,2,2,
+Everton,Southampton,Everton,01-Jan,TRUE,Home,English Premier League,2019/20,07/09/2020,1,1,1,0.8,2.2,-1.4,0,-0.36,0.42,-1,,-1
+Everton,Tottenham,Everton,01-Jan,TRUE,Home,English Premier League,2019/20,11/03/2019,1,1,1,1.1,0.2,0.9,3,-0.36,0.42,2,2,
+Everton,Newcastle,Everton,02-Feb,TRUE,Home,English Premier League,2019/20,1/21/2020,2,2,1,2.1,0.7,1.4,3,-0.36,0.42,2,2,
+Everton,Liverpool,Everton,02-Feb,TRUE,Home,English Premier League,2020/21,10/17/2020,2,2,1,1.4,3,-1.6,0,-0.36,0.42,-1,,-1
+Everton,Brighton,Everton,1-0,TRUE,Home,English Premier League,2019/20,01/11/2020,1,0,3,1.3,1.7,-0.3,1,-0.36,0.42,-2,,-2
+Everton,Burnley,Everton,1-0,TRUE,Home,English Premier League,2019/20,12/26/2019,1,0,3,1.5,0.7,0.9,3,-0.36,0.42,0,0,
+Everton,Watford,Everton,1-0,TRUE,Home,English Premier League,2019/20,8/17/2019,1,0,3,0.8,1,-0.3,1,-0.36,0.42,-2,,-2
+Everton,West Ham,Everton,2-0,TRUE,Home,English Premier League,2019/20,10/19/2019,2,0,3,2.2,0.5,1.7,3,-0.36,0.42,0,0,
+Everton,Leicester,Everton,02-Jan,TRUE,Home,English Premier League,2019/20,07/01/2020,2,1,3,1.2,2.1,-0.9,0,-0.36,0.42,-3,,-3
+Everton,Chelsea,Everton,03-Jan,TRUE,Home,English Premier League,2019/20,12/07/2019,3,1,3,1.8,1.4,0.4,3,-0.36,0.42,0,0,
+Everton,Crystal Palace,Everton,03-Jan,TRUE,Home,English Premier League,2019/20,02/08/2020,3,1,3,2.5,0.9,1.6,3,-0.36,0.42,0,0,
+Everton,Wolves,Everton,03-Feb,TRUE,Home,English Premier League,2019/20,09/01/2019,3,2,3,1.5,2.2,-0.7,0,-0.36,0.42,-3,,-3
+Everton,Brighton,Everton,04-Feb,TRUE,Home,English Premier League,2020/21,10/03/2020,4,2,3,2.9,1.3,1.6,3,-0.36,0.42,0,0,
+Everton,West Brom,Everton,05-Feb,TRUE,Home,English Premier League,2020/21,9/19/2020,5,2,3,3.5,0.4,3.1,3,-0.36,0.42,0,0,
+Fulham,Fulham,Sheffield United,01-Jan,TRUE,Away,English Premier League,2020/21,10/18/2020,1,1,1,1.5,1.7,-0.2,1,-0.36,0.42,0,0,
+Fulham,Fulham,Wolves,0-1,TRUE,Away,English Premier League,2020/21,10/04/2020,0,1,0,1,1.1,-0.1,1,-0.36,0.42,1,1,
+Fulham,Fulham,Leeds,03-Apr,TRUE,Away,English Premier League,2020/21,9/19/2020,3,4,0,1.6,1.3,0.3,1,-0.36,0.42,1,1,
+Fulham,Arsenal,Fulham,0-3,TRUE,Home,English Premier League,2020/21,09/12/2020,0,3,0,0.1,3,-2.9,0,-0.36,0.42,0,0,
+Fulham,Aston Villa,Fulham,0-3,TRUE,Home,English Premier League,2020/21,9/28/2020,0,3,0,0.6,2,-1.4,0,-0.36,0.42,0,0,
+Fulham,Crystal Palace,Fulham,01-Feb,TRUE,Home,English Premier League,2020/21,10/24/2020,1,2,0,1,2.5,-1.5,0,-0.36,0.42,0,0,
+Leeds,Leeds,Aston Villa,3-0,TRUE,Away,English Premier League,2020/21,10/23/2020,3,0,3,2.3,1.6,0.7,3,-0.36,0.42,0,0,
+Leeds,Leeds,Sheffield United,1-0,TRUE,Away,English Premier League,2020/21,9/27/2020,1,0,3,1.3,1.6,-0.3,1,-0.36,0.42,-2,,-2
+Leeds,Leeds,Liverpool,03-Apr,TRUE,Away,English Premier League,2020/21,09/12/2020,3,4,0,0.4,3.3,-3,0,-0.36,0.42,0,0,
+Leeds,Wolves,Leeds,0-1,TRUE,Home,English Premier League,2020/21,10/19/2020,0,1,0,1.2,0.7,0.5,3,-0.36,0.42,3,3,
+Leeds,Man City,Leeds,01-Jan,TRUE,Home,English Premier League,2020/21,10/03/2020,1,1,1,2.6,1.6,1,3,-0.36,0.42,2,2,
+Leeds,Fulham,Leeds,04-Mar,TRUE,Home,English Premier League,2020/21,9/19/2020,4,3,3,1.3,1.6,-0.3,1,-0.36,0.42,-2,,-2
+Leicester,Leicester,Arsenal,1-0,TRUE,Away,English Premier League,2020/21,10/25/2020,1,0,3,0.8,1,-0.2,1,-0.36,0.42,-2,,-2
+Leicester,Leicester,Man City,05-Feb,TRUE,Away,English Premier League,2020/21,9/27/2020,5,2,3,3,1.4,1.6,3,-0.36,0.42,0,0,
+Leicester,Leicester,West Brom,3-0,TRUE,Away,English Premier League,2020/21,9/13/2020,3,0,3,2.9,0.4,2.4,3,-0.36,0.42,0,0,
+Leicester,Leicester,Man United,0-1,TRUE,Away,English Premier League,2019/20,9/14/2019,0,1,0,0.7,1.1,-0.4,0,-0.36,0.42,0,0,
+Leicester,Leicester,Norwich,0-1,TRUE,Away,English Premier League,2019/20,2/28/2020,0,1,0,1.4,0.6,0.8,3,-0.36,0.42,3,3,
+Leicester,Leicester,Tottenham,0-3,TRUE,Away,English Premier League,2019/20,7/19/2020,0,3,0,1.6,1,0.6,3,-0.36,0.42,3,3,
+Leicester,Leicester,Burnley,01-Feb,TRUE,Away,English Premier League,2019/20,1/19/2020,1,2,0,2.3,1,1.2,3,-0.36,0.42,3,3,
+Leicester,Leicester,Everton,01-Feb,TRUE,Away,English Premier League,2019/20,07/01/2020,1,2,0,2.1,1.2,0.9,3,-0.36,0.42,3,3,
+Leicester,Leicester,Liverpool,01-Feb,TRUE,Away,English Premier League,2019/20,10/05/2019,1,2,0,0.1,4.4,-4.3,0,-0.36,0.42,0,0,
+Leicester,Leicester,Man City,01-Mar,TRUE,Away,English Premier League,2019/20,12/21/2019,1,3,0,1,3.6,-2.6,0,-0.36,0.42,0,0,
+Leicester,Leicester,Bournemouth,01-Apr,TRUE,Away,English Premier League,2019/20,07/12/2020,1,4,0,1.5,2.4,-0.9,0,-0.36,0.42,0,0,
+Leicester,Leicester,Wolves,0-0,TRUE,Away,English Premier League,2019/20,2/14/2020,0,0,1,0.7,1.2,-0.5,0,-0.36,0.42,-1,,-1
+Leicester,Leicester,Arsenal,01-Jan,TRUE,Away,English Premier League,2019/20,07/07/2020,1,1,1,1.3,1.3,-0.1,1,-0.36,0.42,0,0,
+Leicester,Leicester,Chelsea,01-Jan,TRUE,Away,English Premier League,2019/20,8/18/2019,1,1,1,1.1,1.2,-0.1,1,-0.36,0.42,0,0,
+Leicester,Leicester,Watford,01-Jan,TRUE,Away,English Premier League,2019/20,6/20/2020,1,1,1,1.2,1.4,-0.2,1,-0.36,0.42,0,0,
+Leicester,Leicester,Brighton,2-0,TRUE,Away,English Premier League,2019/20,11/23/2019,2,0,3,3.9,0.8,3.1,3,-0.36,0.42,0,0,
+Leicester,Leicester,Crystal Palace,2-0,TRUE,Away,English Premier League,2019/20,11/03/2019,2,0,3,1.3,0.5,0.8,3,-0.36,0.42,0,0,
+Leicester,Leicester,Sheffield United,02-Jan,TRUE,Away,English Premier League,2019/20,8/24/2019,2,1,3,0.8,0.8,0,1,-0.36,0.42,-2,,-2
+Leicester,Leicester,West Ham,02-Jan,TRUE,Away,English Premier League,2019/20,12/28/2019,2,1,3,2.5,1.1,1.5,3,-0.36,0.42,0,0,
+Leicester,Leicester,Newcastle,3-0,TRUE,Away,English Premier League,2019/20,01/01/2020,3,0,3,3.2,0.7,2.4,3,-0.36,0.42,0,0,
+Leicester,Leicester,Aston Villa,04-Jan,TRUE,Away,English Premier League,2019/20,12/08/2019,4,1,3,3.6,1.3,2.3,3,-0.36,0.42,0,0,
+Leicester,Leicester,Southampton,9-0,TRUE,Away,English Premier League,2019/20,10/25/2019,9,0,3,4.4,0.4,4,3,-0.36,0.42,0,0,
+Leicester,Man City,Leicester,0-1,TRUE,Home,English Premier League,2019/20,2/22/2020,0,1,0,0.8,2.4,-1.6,0,-0.36,0.42,0,0,
+Leicester,Aston Villa,Leicester,0-1,TRUE,Home,English Premier League,2020/21,10/18/2020,0,1,0,0.6,1,-0.3,1,-0.36,0.42,1,1,
+Leicester,Man United,Leicester,0-2,TRUE,Home,English Premier League,2019/20,7/26/2020,0,2,0,1,1.4,-0.4,0,-0.36,0.42,0,0,
+Leicester,West Ham,Leicester,0-3,TRUE,Home,English Premier League,2020/21,10/04/2020,0,3,0,0.6,2.1,-1.5,0,-0.36,0.42,0,0,
+Leicester,Liverpool,Leicester,0-4,TRUE,Home,English Premier League,2019/20,12/26/2019,0,4,0,0.1,4.2,-4.1,0,-0.36,0.42,0,0,
+Leicester,Southampton,Leicester,01-Feb,TRUE,Home,English Premier League,2019/20,01/11/2020,1,2,0,0.8,2.3,-1.5,0,-0.36,0.42,0,0,
+Leicester,Brighton,Leicester,0-0,TRUE,Home,English Premier League,2019/20,6/23/2020,0,0,1,0.7,1.1,-0.4,0,-0.36,0.42,-1,,-1
+Leicester,Wolves,Leicester,0-0,TRUE,Home,English Premier League,2019/20,08/11/2019,0,0,1,0.7,0.5,0.2,1,-0.36,0.42,0,0,
+Leicester,Norwich,Leicester,01-Jan,TRUE,Home,English Premier League,2019/20,12/14/2019,1,1,1,1.1,1.1,0.1,1,-0.36,0.42,0,0,
+Leicester,Chelsea,Leicester,02-Feb,TRUE,Home,English Premier League,2019/20,02/01/2020,2,2,1,1.6,0.8,0.8,3,-0.36,0.42,2,2,
+Leicester,Arsenal,Leicester,2-0,TRUE,Home,English Premier League,2019/20,11/09/2019,2,0,3,1.5,1.4,0.1,1,-0.36,0.42,-2,,-2
+Leicester,Sheffield United,Leicester,2-0,TRUE,Home,English Premier League,2019/20,7/16/2020,2,0,3,3.1,0.8,2.2,3,-0.36,0.42,0,0,
+Leicester,Watford,Leicester,2-0,TRUE,Home,English Premier League,2019/20,12/04/2019,2,0,3,2.3,0.2,2.1,3,-0.36,0.42,0,0,
+Leicester,Burnley,Leicester,02-Jan,TRUE,Home,English Premier League,2019/20,10/19/2019,2,1,3,1.1,2.1,-1,0,-0.36,0.42,-3,,-3
+Leicester,Everton,Leicester,02-Jan,TRUE,Home,English Premier League,2019/20,12/01/2019,2,1,3,2.7,1.3,1.4,3,-0.36,0.42,0,0,
+Leicester,Tottenham,Leicester,02-Jan,TRUE,Home,English Premier League,2019/20,9/21/2019,2,1,3,1.3,1.5,-0.3,1,-0.36,0.42,-2,,-2
+Leicester,Crystal Palace,Leicester,3-0,TRUE,Home,English Premier League,2019/20,07/04/2020,3,0,3,2.6,0.8,1.8,3,-0.36,0.42,0,0,
+Leicester,Bournemouth,Leicester,03-Jan,TRUE,Home,English Premier League,2019/20,8/31/2019,3,1,3,1.8,0.6,1.2,3,-0.36,0.42,0,0,
+Leicester,Aston Villa,Leicester,4-0,TRUE,Home,English Premier League,2019/20,03/09/2020,4,0,3,2.1,0.7,1.4,3,-0.36,0.42,0,0,
+Leicester,West Ham,Leicester,04-Jan,TRUE,Home,English Premier League,2019/20,1/22/2020,4,1,3,2.7,1.2,1.5,3,-0.36,0.42,0,0,
+Leicester,Burnley,Leicester,04-Feb,TRUE,Home,English Premier League,2020/21,9/20/2020,4,2,3,1,1.7,-0.7,0,-0.36,0.42,-3,,-3
+Leicester,Newcastle,Leicester,5-0,TRUE,Home,English Premier League,2019/20,9/29/2019,5,0,3,1.9,0.1,1.9,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,Everton,02-Feb,TRUE,Away,English Premier League,2020/21,10/17/2020,2,2,1,3,1.4,1.6,3,-0.36,0.42,2,2,
+Liverpool,Liverpool,Aston Villa,02-Jul,TRUE,Away,English Premier League,2020/21,10/04/2020,2,7,0,2,3.2,-1.2,0,-0.36,0.42,0,0,
+Liverpool,Liverpool,Chelsea,2-0,TRUE,Away,English Premier League,2020/21,9/20/2020,2,0,3,1.7,0.9,0.8,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,Watford,0-3,TRUE,Away,English Premier League,2019/20,2/29/2020,0,3,0,0.3,2.3,-2,0,-0.36,0.42,0,0,
+Liverpool,Liverpool,Man City,0-4,TRUE,Away,English Premier League,2019/20,07/02/2020,0,4,0,0.8,2.7,-1.9,0,-0.36,0.42,0,0,
+Liverpool,Liverpool,Arsenal,01-Feb,TRUE,Away,English Premier League,2019/20,7/15/2020,1,2,0,3.1,1.2,1.9,3,-0.36,0.42,3,3,
+Liverpool,Liverpool,Everton,0-0,TRUE,Away,English Premier League,2019/20,6/21/2020,0,0,1,0.7,0.7,0,1,-0.36,0.42,0,0,
+Liverpool,Liverpool,Man United,01-Jan,TRUE,Away,English Premier League,2019/20,10/20/2019,1,1,1,1.2,0.8,0.4,1,-0.36,0.42,0,0,
+Liverpool,Liverpool,Norwich,1-0,TRUE,Away,English Premier League,2019/20,2/15/2020,1,0,3,2.3,0.3,2.1,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,Sheffield United,1-0,TRUE,Away,English Premier League,2019/20,9/28/2019,1,0,3,2.3,1.3,1,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,Tottenham,1-0,TRUE,Away,English Premier League,2019/20,01/11/2020,1,0,3,1.9,1.4,0.5,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,West Ham,2-0,TRUE,Away,English Premier League,2019/20,1/29/2020,2,0,3,2.7,0.9,1.8,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,Aston Villa,02-Jan,TRUE,Away,English Premier League,2019/20,11/02/2019,2,1,3,3,0.9,2.1,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,Chelsea,02-Jan,TRUE,Away,English Premier League,2019/20,9/22/2019,2,1,3,1.3,1.8,-0.5,0,-0.36,0.42,-3,,-3
+Liverpool,Liverpool,Crystal Palace,02-Jan,TRUE,Away,English Premier League,2019/20,11/23/2019,2,1,3,1.9,1.3,0.6,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,Southampton,02-Jan,TRUE,Away,English Premier League,2019/20,8/17/2019,2,1,3,1.8,2,-0.2,1,-0.36,0.42,-2,,-2
+Liverpool,Liverpool,Wolves,02-Jan,TRUE,Away,English Premier League,2019/20,1/23/2020,2,1,3,1.4,1.8,-0.4,0,-0.36,0.42,-3,,-3
+Liverpool,Liverpool,Bournemouth,3-0,TRUE,Away,English Premier League,2019/20,12/07/2019,3,0,3,3,0.2,2.8,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,Burnley,3-0,TRUE,Away,English Premier League,2019/20,8/31/2019,3,0,3,1.4,0.4,1,3,-0.36,0.42,0,0,
+Liverpool,Liverpool,Brighton,03-Jan,TRUE,Away,English Premier League,2019/20,07/08/2020,3,1,3,2.6,2.8,-0.2,1,-0.36,0.42,-2,,-2
+Liverpool,Liverpool,Newcastle,03-Jan,TRUE,Away,English Premier League,2019/20,7/26/2020,3,1,3,0.6,0.4,0.2,1,-0.36,0.42,-2,,-2
+Liverpool,Liverpool,Leicester,4-0,TRUE,Away,English Premier League,2019/20,12/26/2019,4,0,3,4.2,0.1,4.1,3,-0.36,0.42,0,0,
+Liverpool,Burnley,Liverpool,01-Jan,TRUE,Home,English Premier League,2019/20,07/11/2020,1,1,1,2.4,0.6,1.8,3,-0.36,0.42,2,2,
+Liverpool,Wolves,Liverpool,1-0,TRUE,Home,English Premier League,2019/20,12/29/2019,1,0,3,1.8,0.5,1.3,3,-0.36,0.42,0,0,
+Liverpool,Aston Villa,Liverpool,2-0,TRUE,Home,English Premier League,2019/20,07/05/2020,2,0,3,1.3,0.6,0.7,3,-0.36,0.42,0,0,
+Liverpool,Man United,Liverpool,2-0,TRUE,Home,English Premier League,2019/20,1/19/2020,2,0,3,2.5,1.3,1.2,3,-0.36,0.42,0,0,
+Liverpool,Sheffield United,Liverpool,2-0,TRUE,Home,English Premier League,2019/20,01/02/2020,2,0,3,4.3,0.7,3.6,3,-0.36,0.42,0,0,
+Liverpool,Watford,Liverpool,2-0,TRUE,Home,English Premier League,2019/20,12/14/2019,2,0,3,1.9,1.2,0.7,3,-0.36,0.42,0,0,
+Liverpool,Bournemouth,Liverpool,02-Jan,TRUE,Home,English Premier League,2019/20,03/07/2020,2,1,3,2.2,1.4,0.8,3,-0.36,0.42,0,0,
+Liverpool,Brighton,Liverpool,02-Jan,TRUE,Home,English Premier League,2019/20,11/30/2019,2,1,3,1.6,1,0.6,3,-0.36,0.42,0,0,
+Liverpool,Leicester,Liverpool,02-Jan,TRUE,Home,English Premier League,2019/20,10/05/2019,2,1,3,4.4,0.1,4.3,3,-0.36,0.42,0,0,
+Liverpool,Tottenham,Liverpool,02-Jan,TRUE,Home,English Premier League,2019/20,10/27/2019,2,1,3,2.8,1.5,1.3,3,-0.36,0.42,0,0,
+Liverpool,Sheffield United,Liverpool,02-Jan,TRUE,Home,English Premier League,2020/21,10/24/2020,2,1,3,3,1.5,1.5,3,-0.36,0.42,0,0,
+Liverpool,West Ham,Liverpool,02-Jan,TRUE,Home,English Premier League,2020/21,10/31/2020,2,1,3,1.7,0.3,1.4,3,-0.36,0.42,0,0,
+Liverpool,Arsenal,Liverpool,03-Jan,TRUE,Home,English Premier League,2019/20,8/24/2019,3,1,3,3,0.8,2.2,3,-0.36,0.42,0,0,
+Liverpool,Man City,Liverpool,03-Jan,TRUE,Home,English Premier League,2019/20,11/10/2019,3,1,3,1.4,1.5,-0.1,1,-0.36,0.42,-2,,-2
+Liverpool,Newcastle,Liverpool,03-Jan,TRUE,Home,English Premier League,2019/20,9/14/2019,3,1,3,3.2,0.3,2.8,3,-0.36,0.42,0,0,
+Liverpool,Arsenal,Liverpool,03-Jan,TRUE,Home,English Premier League,2020/21,9/28/2020,3,1,3,2.9,1.5,1.4,3,-0.36,0.42,0,0,
+Liverpool,West Ham,Liverpool,03-Feb,TRUE,Home,English Premier League,2019/20,2/24/2020,3,2,3,2.7,0.6,2.2,3,-0.36,0.42,0,0,
+Liverpool,Crystal Palace,Liverpool,4-0,TRUE,Home,English Premier League,2019/20,6/24/2020,4,0,3,2.9,0.1,2.8,3,-0.36,0.42,0,0,
+Liverpool,Southampton,Liverpool,4-0,TRUE,Home,English Premier League,2019/20,02/01/2020,4,0,3,4.1,0.8,3.4,3,-0.36,0.42,0,0,
+Liverpool,Norwich,Liverpool,04-Jan,TRUE,Home,English Premier League,2019/20,08/09/2019,4,1,3,1.7,0.9,0.8,3,-0.36,0.42,0,0,
+Liverpool,Leeds,Liverpool,04-Mar,TRUE,Home,English Premier League,2020/21,09/12/2020,4,3,3,3.3,0.4,3,3,-0.36,0.42,0,0,
+Liverpool,Everton,Liverpool,05-Feb,TRUE,Home,English Premier League,2019/20,12/04/2019,5,2,3,2.6,1.8,0.8,3,-0.36,0.42,0,0,
+Liverpool,Chelsea,Liverpool,05-Mar,TRUE,Home,English Premier League,2019/20,7/22/2020,5,3,3,1.6,3,-1.4,0,-0.36,0.42,-3,,-3
+Man City,Man City,Sheffield United,1-0,TRUE,Away,English Premier League,2020/21,10/31/2020,1,0,3,1.8,0.7,1.1,3,-0.36,0.42,0,0,
+Man City,Man City,West Ham,01-Jan,TRUE,Away,English Premier League,2020/21,10/24/2020,1,1,1,1.1,0.3,0.8,3,-0.36,0.42,2,2,
+Man City,Man City,Leeds,01-Jan,TRUE,Away,English Premier League,2020/21,10/03/2020,1,1,1,1.6,2.6,-1,0,-0.36,0.42,-1,,-1
+Man City,Man City,Wolves,03-Jan,TRUE,Away,English Premier League,2020/21,9/21/2020,3,1,3,2.2,0.8,1.4,3,-0.36,0.42,0,0,
+Man City,Man City,Southampton,0-1,TRUE,Away,English Premier League,2019/20,07/05/2020,0,1,0,3.6,0.7,2.9,3,-0.36,0.42,3,3,
+Man City,Man City,Man United,0-2,TRUE,Away,English Premier League,2019/20,03/08/2020,0,2,0,0.8,1.3,-0.5,0,-0.36,0.42,0,0,
+Man City,Man City,Tottenham,0-2,TRUE,Away,English Premier League,2019/20,02/02/2020,0,2,0,3.5,0.5,2.9,3,-0.36,0.42,3,3,
+Man City,Man City,Chelsea,01-Feb,TRUE,Away,English Premier League,2019/20,6/25/2020,1,2,0,1,4.1,-3.1,0,-0.36,0.42,0,0,
+Man City,Man City,Liverpool,01-Mar,TRUE,Away,English Premier League,2019/20,11/10/2019,1,3,0,1.5,1.4,0.1,1,-0.36,0.42,1,1,
+Man City,Man City,Norwich,02-Mar,TRUE,Away,English Premier League,2019/20,9/14/2019,2,3,0,2.6,1.5,1.1,3,-0.36,0.42,3,3,
+Man City,Man City,Wolves,02-Mar,TRUE,Away,English Premier League,2019/20,12/27/2019,2,3,0,1.8,2.4,-0.6,0,-0.36,0.42,0,0,
+Man City,Man City,Newcastle,02-Feb,TRUE,Away,English Premier League,2019/20,11/30/2019,2,2,1,3.2,0.2,2.9,3,-0.36,0.42,2,2,
+Man City,Man City,Leicester,1-0,TRUE,Away,English Premier League,2019/20,2/22/2020,1,0,3,2.4,0.8,1.6,3,-0.36,0.42,0,0,
+Man City,Man City,Sheffield United,1-0,TRUE,Away,English Premier League,2019/20,1/21/2020,1,0,3,2.9,0.8,2.1,3,-0.36,0.42,0,0,
+Man City,Man City,Crystal Palace,2-0,TRUE,Away,English Premier League,2019/20,10/19/2019,2,0,3,3.9,0.9,3,3,-0.36,0.42,0,0,
+Man City,Man City,Arsenal,3-0,TRUE,Away,English Premier League,2019/20,12/15/2019,3,0,3,1.7,0.3,1.4,3,-0.36,0.42,0,0,
+Man City,Man City,Bournemouth,03-Jan,TRUE,Away,English Premier League,2019/20,8/25/2019,3,1,3,3.4,2,1.4,3,-0.36,0.42,0,0,
+Man City,Man City,Everton,03-Jan,TRUE,Away,English Premier League,2019/20,9/28/2019,3,1,3,3,2.3,0.7,3,-0.36,0.42,0,0,
+Man City,Man City,Watford,4-0,TRUE,Away,English Premier League,2019/20,7/21/2020,4,0,3,4,0.4,3.7,3,-0.36,0.42,0,0,
+Man City,Man City,Burnley,04-Jan,TRUE,Away,English Premier League,2019/20,12/03/2019,4,1,3,2.6,0.6,1.9,3,-0.36,0.42,0,0,
+Man City,Man City,Brighton,5-0,TRUE,Away,English Premier League,2019/20,07/11/2020,5,0,3,5.1,0.1,5,3,-0.36,0.42,0,0,
+Man City,Man City,West Ham,5-0,TRUE,Away,English Premier League,2019/20,08/10/2019,5,0,3,3,1.3,1.7,3,-0.36,0.42,0,0,
+Man City,Man City,Aston Villa,06-Jan,TRUE,Away,English Premier League,2019/20,01/12/2020,6,1,3,3.2,1.1,2.1,3,-0.36,0.42,0,0,
+Man City,Wolves,Man City,0-2,TRUE,Home,English Premier League,2019/20,10/06/2019,0,2,0,1.9,1.3,0.6,3,-0.36,0.42,3,3,
+Man City,Man United,Man City,01-Feb,TRUE,Home,English Premier League,2019/20,12/07/2019,1,2,0,2.4,1.5,0.8,3,-0.36,0.42,3,3,
+Man City,Leicester,Man City,02-May,TRUE,Home,English Premier League,2020/21,9/27/2020,2,5,0,1.4,3,-1.6,0,-0.36,0.42,0,0,
+Man City,Crystal Palace,Man City,02-Feb,TRUE,Home,English Premier League,2019/20,1/18/2020,2,2,1,3.1,0.7,2.4,3,-0.36,0.42,2,2,
+Man City,Tottenham,Man City,02-Feb,TRUE,Home,English Premier League,2019/20,8/17/2019,2,2,1,3.5,0.2,3.4,3,-0.36,0.42,2,2,
+Man City,Arsenal,Man City,1-0,TRUE,Home,English Premier League,2020/21,10/17/2020,1,0,3,1.6,0.8,0.8,3,-0.36,0.42,0,0,
+Man City,Sheffield United,Man City,2-0,TRUE,Home,English Premier League,2019/20,12/29/2019,2,0,3,1.2,1.2,0,1,-0.36,0.42,-2,,-2
+Man City,West Ham,Man City,2-0,TRUE,Home,English Premier League,2019/20,2/19/2020,2,0,3,2.3,0.1,2.2,3,-0.36,0.42,0,0,
+Man City,Bournemouth,Man City,02-Jan,TRUE,Home,English Premier League,2019/20,7/15/2020,2,1,3,0.6,2.1,-1.5,0,-0.36,0.42,-3,,-3
+Man City,Chelsea,Man City,02-Jan,TRUE,Home,English Premier League,2019/20,11/23/2019,2,1,3,1.3,1,0.3,1,-0.36,0.42,-2,,-2
+Man City,Everton,Man City,02-Jan,TRUE,Home,English Premier League,2019/20,01/01/2020,2,1,3,1.8,1,0.9,3,-0.36,0.42,0,0,
+Man City,Southampton,Man City,02-Jan,TRUE,Home,English Premier League,2019/20,11/02/2019,2,1,3,3.8,0.7,3.1,3,-0.36,0.42,0,0,
+Man City,Arsenal,Man City,3-0,TRUE,Home,English Premier League,2019/20,6/17/2020,3,0,3,2.9,0.7,2.3,3,-0.36,0.42,0,0,
+Man City,Aston Villa,Man City,3-0,TRUE,Home,English Premier League,2019/20,10/26/2019,3,0,3,3.2,1.3,1.9,3,-0.36,0.42,0,0,
+Man City,Leicester,Man City,03-Jan,TRUE,Home,English Premier League,2019/20,12/21/2019,3,1,3,3.6,1,2.6,3,-0.36,0.42,0,0,
+Man City,Brighton,Man City,4-0,TRUE,Home,English Premier League,2019/20,8/31/2019,4,0,3,2.4,1.1,1.3,3,-0.36,0.42,0,0,
+Man City,Liverpool,Man City,4-0,TRUE,Home,English Premier League,2019/20,07/02/2020,4,0,3,2.7,0.8,1.9,3,-0.36,0.42,0,0,
+Man City,Burnley,Man City,5-0,TRUE,Home,English Premier League,2019/20,6/22/2020,5,0,3,2.7,0,2.7,3,-0.36,0.42,0,0,
+Man City,Newcastle,Man City,5-0,TRUE,Home,English Premier League,2019/20,07/08/2020,5,0,3,3.1,0.3,2.8,3,-0.36,0.42,0,0,
+Man City,Norwich,Man City,5-0,TRUE,Home,English Premier League,2019/20,7/26/2020,5,0,3,3.3,0.9,2.4,3,-0.36,0.42,0,0,
+Man City,Watford,Man City,8-0,TRUE,Home,English Premier League,2019/20,9/21/2019,8,0,3,7.1,0.3,6.8,3,-0.36,0.42,0,0,
+Man United,Man United,Newcastle,04-Jan,TRUE,Away,English Premier League,2020/21,10/17/2020,4,1,3,2.3,0.9,1.4,3,-0.36,0.42,0,0,
+Man United,Man United,Brighton,03-Feb,TRUE,Away,English Premier League,2020/21,9/26/2020,3,2,3,1.6,3,-1.4,0,-0.36,0.42,-3,,-3
+Man United,Man United,Bournemouth,0-1,TRUE,Away,English Premier League,2019/20,11/02/2019,0,1,0,0.8,2.1,-1.3,0,-0.36,0.42,0,0,
+Man United,Man United,Newcastle,0-1,TRUE,Away,English Premier League,2019/20,10/06/2019,0,1,0,1,0.7,0.3,1,-0.36,0.42,1,1,
+Man United,Man United,Arsenal,0-2,TRUE,Away,English Premier League,2019/20,01/01/2020,0,2,0,0.8,1.5,-0.7,0,-0.36,0.42,0,0,
+Man United,Man United,Liverpool,0-2,TRUE,Away,English Premier League,2019/20,1/19/2020,0,2,0,1.3,2.5,-1.2,0,-0.36,0.42,0,0,
+Man United,Man United,Watford,0-2,TRUE,Away,English Premier League,2019/20,12/22/2019,0,2,0,1.5,1.6,-0.1,1,-0.36,0.42,1,1,
+Man United,Man United,West Ham,0-2,TRUE,Away,English Premier League,2019/20,9/22/2019,0,2,0,1.3,0.5,0.7,3,-0.36,0.42,3,3,
+Man United,Man United,Everton,01-Jan,TRUE,Away,English Premier League,2019/20,03/01/2020,1,1,1,1.1,2.2,-1.1,0,-0.36,0.42,-1,,-1
+Man United,Man United,Southampton,01-Jan,TRUE,Away,English Premier League,2019/20,8/31/2019,1,1,1,1.8,0.8,1,3,-0.36,0.42,2,2,
+Man United,Man United,Tottenham,01-Jan,TRUE,Away,English Premier League,2019/20,6/19/2020,1,1,1,1.9,0.6,1.3,3,-0.36,0.42,2,2,
+Man United,Man United,Wolves,01-Jan,TRUE,Away,English Premier League,2019/20,8/19/2019,1,1,1,1.2,0.3,0.9,3,-0.36,0.42,2,2,
+Man United,Man United,Sheffield United,03-Mar,TRUE,Away,English Premier League,2019/20,11/24/2019,3,3,1,1.4,1.8,-0.4,0,-0.36,0.42,-1,,-1
+Man United,Man United,Burnley,2-0,TRUE,Away,English Premier League,2019/20,12/28/2019,2,0,3,2.2,0.6,1.5,3,-0.36,0.42,0,0,
+Man United,Man United,Chelsea,2-0,TRUE,Away,English Premier League,2019/20,2/17/2020,2,0,3,0.7,1.1,-0.4,0,-0.36,0.42,-3,,-3
+Man United,Man United,Crystal Palace,2-0,TRUE,Away,English Premier League,2019/20,7/16/2020,2,0,3,1.9,0.6,1.3,3,-0.36,0.42,0,0,
+Man United,Man United,Leicester,2-0,TRUE,Away,English Premier League,2019/20,7/26/2020,2,0,3,1.4,1,0.4,3,-0.36,0.42,0,0,
+Man United,Man United,Man City,02-Jan,TRUE,Away,English Premier League,2019/20,12/07/2019,2,1,3,1.5,2.4,-0.8,0,-0.36,0.42,-3,,-3
+Man United,Man United,Aston Villa,3-0,TRUE,Away,English Premier League,2019/20,07/09/2020,3,0,3,2.5,0.6,1.9,3,-0.36,0.42,0,0,
+Man United,Man United,Brighton,3-0,TRUE,Away,English Premier League,2019/20,6/30/2020,3,0,3,1.1,0.4,0.8,3,-0.36,0.42,0,0,
+Man United,Man United,Norwich,03-Jan,TRUE,Away,English Premier League,2019/20,10/27/2019,3,1,3,4.3,1,3.3,3,-0.36,0.42,0,0,
+Man United,Arsenal,Man United,0-1,TRUE,Home,English Premier League,2020/21,11/01/2020,0,1,0,0.4,1.1,-0.7,0,-0.36,0.42,0,0,
+Man United,Burnley,Man United,0-2,TRUE,Home,English Premier League,2019/20,1/22/2020,0,2,0,1.4,0.9,0.5,3,-0.36,0.42,3,3,
+Man United,Crystal Palace,Man United,01-Feb,TRUE,Home,English Premier League,2019/20,8/24/2019,1,2,0,2.5,0.7,1.8,3,-0.36,0.42,3,3,
+Man United,Crystal Palace,Man United,01-Mar,TRUE,Home,English Premier League,2020/21,9/19/2020,1,3,0,1.3,1.9,-0.6,0,-0.36,0.42,0,0,
+Man United,Tottenham,Man United,01-Jun,TRUE,Home,English Premier League,2020/21,10/04/2020,1,6,0,0.9,3.8,-2.8,0,-0.36,0.42,0,0,
+Man United,Wolves,Man United,0-0,TRUE,Home,English Premier League,2019/20,02/01/2020,0,0,1,0.9,1.2,-0.3,1,-0.36,0.42,0,0,
+Man United,Chelsea,Man United,0-0,TRUE,Home,English Premier League,2020/21,10/24/2020,0,0,1,0.8,0.2,0.6,3,-0.36,0.42,2,2,
+Man United,Arsenal,Man United,01-Jan,TRUE,Home,English Premier League,2019/20,9/30/2019,1,1,1,1.1,1.8,-0.8,0,-0.36,0.42,-1,,-1
+Man United,Everton,Man United,01-Jan,TRUE,Home,English Premier League,2019/20,12/15/2019,1,1,1,1.6,0.3,1.3,3,-0.36,0.42,2,2,
+Man United,Liverpool,Man United,01-Jan,TRUE,Home,English Premier League,2019/20,10/20/2019,1,1,1,0.8,1.2,-0.4,0,-0.36,0.42,-1,,-1
+Man United,West Ham,Man United,01-Jan,TRUE,Home,English Premier League,2019/20,7/22/2020,1,1,1,1,1.3,-0.3,1,-0.36,0.42,0,0,
+Man United,Aston Villa,Man United,02-Feb,TRUE,Home,English Premier League,2019/20,12/01/2019,2,2,1,2,1.3,0.7,3,-0.36,0.42,2,2,
+Man United,Southampton,Man United,02-Feb,TRUE,Home,English Premier League,2019/20,7/13/2020,2,2,1,1.4,1.5,-0.1,1,-0.36,0.42,0,0,
+Man United,Leicester,Man United,1-0,TRUE,Home,English Premier League,2019/20,9/14/2019,1,0,3,1.1,0.7,0.4,3,-0.36,0.42,0,0,
+Man United,Man City,Man United,2-0,TRUE,Home,English Premier League,2019/20,03/08/2020,2,0,3,1.3,0.8,0.5,3,-0.36,0.42,0,0,
+Man United,Tottenham,Man United,02-Jan,TRUE,Home,English Premier League,2019/20,12/04/2019,2,1,3,1.4,1,0.4,1,-0.36,0.42,-2,,-2
+Man United,Sheffield United,Man United,3-0,TRUE,Home,English Premier League,2019/20,6/24/2020,3,0,3,3,0.1,2.9,3,-0.36,0.42,0,0,
+Man United,Watford,Man United,3-0,TRUE,Home,English Premier League,2019/20,2/23/2020,3,0,3,2,0.3,1.7,3,-0.36,0.42,0,0,
+Man United,Brighton,Man United,03-Jan,TRUE,Home,English Premier League,2019/20,11/10/2019,3,1,3,3.4,1.1,2.3,3,-0.36,0.42,0,0,
+Man United,Chelsea,Man United,4-0,TRUE,Home,English Premier League,2019/20,08/11/2019,4,0,3,2.3,1.3,1.1,3,-0.36,0.42,0,0,
+Man United,Norwich,Man United,4-0,TRUE,Home,English Premier League,2019/20,01/11/2020,4,0,3,2.9,0.3,2.6,3,-0.36,0.42,0,0,
+Man United,Newcastle,Man United,04-Jan,TRUE,Home,English Premier League,2019/20,12/26/2019,4,1,3,2,0.9,1,3,-0.36,0.42,0,0,
+Man United,Bournemouth,Man United,05-Feb,TRUE,Home,English Premier League,2019/20,07/04/2020,5,2,3,2.5,1.7,0.9,3,-0.36,0.42,0,0,
+Newcastle,Newcastle,Wolves,01-Jan,TRUE,Away,English Premier League,2020/21,10/25/2020,1,1,1,0.3,0.9,-0.6,0,-0.36,0.42,-1,,-1
+Newcastle,Newcastle,Tottenham,01-Jan,TRUE,Away,English Premier League,2020/21,9/27/2020,1,1,1,1,3.6,-2.7,0,-0.36,0.42,-1,,-1
+Newcastle,Newcastle,West Ham,2-0,TRUE,Away,English Premier League,2020/21,09/12/2020,2,0,3,1.5,1,0.5,3,-0.36,0.42,0,0,
+Newcastle,Newcastle,Burnley,0-1,TRUE,Away,English Premier League,2019/20,12/14/2019,0,1,0,1.4,1.4,0,1,-0.36,0.42,1,1,
+Newcastle,Newcastle,Chelsea,0-1,TRUE,Away,English Premier League,2019/20,10/19/2019,0,1,0,0.3,2.8,-2.6,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Crystal Palace,0-1,TRUE,Away,English Premier League,2019/20,2/22/2020,0,1,0,0.2,1.8,-1.6,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Aston Villa,0-2,TRUE,Away,English Premier League,2019/20,11/25/2019,0,2,0,0.9,2.3,-1.4,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Arsenal,0-4,TRUE,Away,English Premier League,2019/20,2/16/2020,0,4,0,1,2.9,-1.9,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Leicester,0-5,TRUE,Away,English Premier League,2019/20,9/29/2019,0,5,0,0.1,1.9,-1.9,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Man City,0-5,TRUE,Away,English Premier League,2019/20,07/08/2020,0,5,0,0.3,3.1,-2.8,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Watford,01-Feb,TRUE,Away,English Premier League,2019/20,07/11/2020,1,2,0,1.3,3.3,-2,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Liverpool,01-Mar,TRUE,Away,English Premier League,2019/20,9/14/2019,1,3,0,0.3,3.2,-2.8,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Norwich,01-Mar,TRUE,Away,English Premier League,2019/20,8/17/2019,1,3,0,0.6,1.4,-0.8,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Man United,01-Apr,TRUE,Away,English Premier League,2019/20,12/26/2019,1,4,0,0.9,2,-1,0,-0.36,0.42,0,0,
+Newcastle,Newcastle,Brighton,0-0,TRUE,Away,English Premier League,2019/20,7/20/2020,0,0,1,1.3,0.9,0.4,3,-0.36,0.42,2,2,
+Newcastle,Newcastle,Wolves,01-Jan,TRUE,Away,English Premier League,2019/20,01/11/2020,1,1,1,0.2,1.7,-1.5,0,-0.36,0.42,-1,,-1
+Newcastle,Newcastle,Everton,02-Feb,TRUE,Away,English Premier League,2019/20,1/21/2020,2,2,1,0.7,2.1,-1.4,0,-0.36,0.42,-1,,-1
+Newcastle,Newcastle,Southampton,1-0,TRUE,Away,English Premier League,2019/20,03/07/2020,1,0,3,3.4,0.4,3.1,3,-0.36,0.42,0,0,
+Newcastle,Newcastle,Tottenham,1-0,TRUE,Away,English Premier League,2019/20,8/25/2019,1,0,3,0.5,1.7,-1.2,0,-0.36,0.42,-3,,-3
+Newcastle,Newcastle,Sheffield United,2-0,TRUE,Away,English Premier League,2019/20,12/05/2019,2,0,3,0.5,1.2,-0.7,0,-0.36,0.42,-3,,-3
+Newcastle,Newcastle,West Ham,03-Feb,TRUE,Away,English Premier League,2019/20,11/02/2019,3,2,3,2.2,1.8,0.5,3,-0.36,0.42,0,0,
+Newcastle,Newcastle,Bournemouth,04-Jan,TRUE,Away,English Premier League,2019/20,07/01/2020,4,1,3,2,1.2,0.8,3,-0.36,0.42,0,0,
+Newcastle,Arsenal,Newcastle,0-1,TRUE,Home,English Premier League,2019/20,08/11/2019,0,1,0,0.4,0.9,-0.5,0,-0.36,0.42,0,0,
+Newcastle,Leicester,Newcastle,0-3,TRUE,Home,English Premier League,2019/20,01/01/2020,0,3,0,0.7,3.2,-2.4,0,-0.36,0.42,0,0,
+Newcastle,Brighton,Newcastle,0-3,TRUE,Home,English Premier League,2020/21,9/20/2020,0,3,0,0.6,1.9,-1.3,0,-0.36,0.42,0,0,
+Newcastle,Everton,Newcastle,01-Feb,TRUE,Home,English Premier League,2019/20,12/28/2019,1,2,0,1.7,2.9,-1.1,0,-0.36,0.42,0,0,
+Newcastle,Liverpool,Newcastle,01-Mar,TRUE,Home,English Premier League,2019/20,7/26/2020,1,3,0,0.4,0.6,-0.2,1,-0.36,0.42,1,1,
+Newcastle,Tottenham,Newcastle,01-Mar,TRUE,Home,English Premier League,2019/20,7/15/2020,1,3,0,1.2,1.4,-0.2,1,-0.36,0.42,1,1,
+Newcastle,Man United,Newcastle,01-Apr,TRUE,Home,English Premier League,2020/21,10/17/2020,1,4,0,0.9,2.3,-1.4,0,-0.36,0.42,0,0,
+Newcastle,Brighton,Newcastle,0-0,TRUE,Home,English Premier League,2019/20,9/21/2019,0,0,1,0.8,1.4,-0.6,0,-0.36,0.42,-1,,-1
+Newcastle,Burnley,Newcastle,0-0,TRUE,Home,English Premier League,2019/20,2/29/2020,0,0,1,1.5,0.7,0.8,3,-0.36,0.42,2,2,
+Newcastle,Norwich,Newcastle,0-0,TRUE,Home,English Premier League,2019/20,02/01/2020,0,0,1,1,2.4,-1.3,0,-0.36,0.42,-1,,-1
+Newcastle,Aston Villa,Newcastle,01-Jan,TRUE,Home,English Premier League,2019/20,6/24/2020,1,1,1,0.7,1.3,-0.6,0,-0.36,0.42,-1,,-1
+Newcastle,Watford,Newcastle,01-Jan,TRUE,Home,English Premier League,2019/20,8/31/2019,1,1,1,1.3,1.1,0.2,1,-0.36,0.42,0,0,
+Newcastle,Wolves,Newcastle,01-Jan,TRUE,Home,English Premier League,2019/20,10/27/2019,1,1,1,0.8,1.9,-1.2,0,-0.36,0.42,-1,,-1
+Newcastle,Man City,Newcastle,02-Feb,TRUE,Home,English Premier League,2019/20,11/30/2019,2,2,1,0.2,3.2,-2.9,0,-0.36,0.42,-1,,-1
+Newcastle,West Ham,Newcastle,02-Feb,TRUE,Home,English Premier League,2019/20,07/05/2020,2,2,1,1.3,2.2,-0.9,0,-0.36,0.42,-1,,-1
+Newcastle,Chelsea,Newcastle,1-0,TRUE,Home,English Premier League,2019/20,1/18/2020,1,0,3,0.8,2.2,-1.3,0,-0.36,0.42,-3,,-3
+Newcastle,Crystal Palace,Newcastle,1-0,TRUE,Home,English Premier League,2019/20,12/21/2019,1,0,3,0.7,1,-0.3,1,-0.36,0.42,-2,,-2
+Newcastle,Man United,Newcastle,1-0,TRUE,Home,English Premier League,2019/20,10/06/2019,1,0,3,0.7,1,-0.3,1,-0.36,0.42,-2,,-2
+Newcastle,Bournemouth,Newcastle,02-Jan,TRUE,Home,English Premier League,2019/20,11/09/2019,2,1,3,2.1,2,0.1,1,-0.36,0.42,-2,,-2
+Newcastle,Southampton,Newcastle,02-Jan,TRUE,Home,English Premier League,2019/20,12/08/2019,2,1,3,1.2,1.9,-0.7,0,-0.36,0.42,-3,,-3
+Newcastle,Everton,Newcastle,02-Jan,TRUE,Home,English Premier League,2020/21,11/01/2020,2,1,3,2.3,1.4,0.9,3,-0.36,0.42,0,0,
+Newcastle,Sheffield United,Newcastle,3-0,TRUE,Home,English Premier League,2019/20,6/21/2020,3,0,3,2,0.7,1.3,3,-0.36,0.42,0,0,
+Newcastle,Burnley,Newcastle,03-Jan,TRUE,Home,English Premier League,2020/21,10/03/2020,3,1,3,2,0.6,1.4,3,-0.36,0.42,0,0,
+Norwich,Norwich,Aston Villa,0-1,TRUE,Away,English Premier League,2019/20,12/26/2019,0,1,0,1.5,0.7,0.8,3,-0.36,0.42,3,3,
+Norwich,Norwich,Chelsea,0-1,TRUE,Away,English Premier League,2019/20,7/14/2020,0,1,0,0.1,3.4,-3.4,0,-0.36,0.42,0,0,
+Norwich,Norwich,Sheffield United,0-1,TRUE,Away,English Premier League,2019/20,03/07/2020,0,1,0,1.5,1.2,0.3,1,-0.36,0.42,1,1,
+Norwich,Norwich,Brighton,0-2,TRUE,Away,English Premier League,2019/20,11/02/2019,0,2,0,0.5,3,-2.5,0,-0.36,0.42,0,0,
+Norwich,Norwich,Burnley,0-2,TRUE,Away,English Premier League,2019/20,9/21/2019,0,2,0,0.8,2.4,-1.7,0,-0.36,0.42,0,0,
+Norwich,Norwich,Crystal Palace,0-2,TRUE,Away,English Premier League,2019/20,9/28/2019,0,2,0,0.8,1.6,-0.9,0,-0.36,0.42,0,0,
+Norwich,Norwich,West Ham,0-2,TRUE,Away,English Premier League,2019/20,8/31/2019,0,2,0,1.3,2.1,-0.8,0,-0.36,0.42,0,0,
+Norwich,Norwich,Wolves,0-3,TRUE,Away,English Premier League,2019/20,2/23/2020,0,3,0,0.4,3.2,-2.8,0,-0.36,0.42,0,0,
+Norwich,Norwich,Arsenal,0-4,TRUE,Away,English Premier League,2019/20,07/01/2020,0,4,0,0.2,1.7,-1.5,0,-0.36,0.42,0,0,
+Norwich,Norwich,Man United,0-4,TRUE,Away,English Premier League,2019/20,01/11/2020,0,4,0,0.3,2.9,-2.6,0,-0.36,0.42,0,0,
+Norwich,Norwich,Man City,0-5,TRUE,Away,English Premier League,2019/20,7/26/2020,0,5,0,0.9,3.3,-2.4,0,-0.36,0.42,0,0,
+Norwich,Norwich,Southampton,01-Feb,TRUE,Away,English Premier League,2019/20,12/04/2019,1,2,0,0.9,1.8,-0.9,0,-0.36,0.42,0,0,
+Norwich,Norwich,Tottenham,01-Feb,TRUE,Away,English Premier League,2019/20,1/22/2020,1,2,0,1.5,2.3,-0.9,0,-0.36,0.42,0,0,
+Norwich,Norwich,Watford,01-Feb,TRUE,Away,English Premier League,2019/20,07/07/2020,1,2,0,1.1,0.8,0.3,1,-0.36,0.42,1,1,
+Norwich,Norwich,Liverpool,01-Apr,TRUE,Away,English Premier League,2019/20,08/09/2019,1,4,0,0.9,1.7,-0.8,0,-0.36,0.42,0,0,
+Norwich,Norwich,Bournemouth,0-0,TRUE,Away,English Premier League,2019/20,10/19/2019,0,0,1,0.5,0.7,-0.2,1,-0.36,0.42,0,0,
+Norwich,Norwich,Newcastle,0-0,TRUE,Away,English Premier League,2019/20,02/01/2020,0,0,1,2.4,1,1.3,3,-0.36,0.42,2,2,
+Norwich,Norwich,Leicester,01-Jan,TRUE,Away,English Premier League,2019/20,12/14/2019,1,1,1,1.1,1.1,-0.1,1,-0.36,0.42,0,0,
+Norwich,Norwich,Everton,2-0,TRUE,Away,English Premier League,2019/20,11/23/2019,2,0,3,1.7,1,0.8,3,-0.36,0.42,0,0,
+Norwich,Brighton,Norwich,0-1,TRUE,Home,English Premier League,2019/20,07/04/2020,0,1,0,0.6,1.1,-0.5,0,-0.36,0.42,0,0,
+Norwich,Everton,Norwich,0-1,TRUE,Home,English Premier League,2019/20,6/24/2020,0,1,0,0.5,0.7,-0.3,1,-0.36,0.42,1,1,
+Norwich,Liverpool,Norwich,0-1,TRUE,Home,English Premier League,2019/20,2/15/2020,0,1,0,0.3,2.3,-2.1,0,-0.36,0.42,0,0,
+Norwich,Burnley,Norwich,0-2,TRUE,Home,English Premier League,2019/20,7/18/2020,0,2,0,0.6,1.9,-1.3,0,-0.36,0.42,0,0,
+Norwich,Watford,Norwich,0-2,TRUE,Home,English Premier League,2019/20,11/08/2019,0,2,0,0.7,1.3,-0.6,0,-0.36,0.42,0,0,
+Norwich,Southampton,Norwich,0-3,TRUE,Home,English Premier League,2019/20,6/19/2020,0,3,0,0.7,1.7,-1,0,-0.36,0.42,0,0,
+Norwich,West Ham,Norwich,0-4,TRUE,Home,English Premier League,2019/20,07/11/2020,0,4,0,0.7,4,-3.2,0,-0.36,0.42,0,0,
+Norwich,Sheffield United,Norwich,01-Feb,TRUE,Home,English Premier League,2019/20,12/08/2019,1,2,0,0.6,0.8,-0.1,1,-0.36,0.42,1,1,
+Norwich,Wolves,Norwich,01-Feb,TRUE,Home,English Premier League,2019/20,12/21/2019,1,2,0,1.2,2,-0.8,0,-0.36,0.42,0,0,
+Norwich,Man United,Norwich,01-Mar,TRUE,Home,English Premier League,2019/20,10/27/2019,1,3,0,1,4.3,-3.3,0,-0.36,0.42,0,0,
+Norwich,Aston Villa,Norwich,01-May,TRUE,Home,English Premier League,2019/20,10/05/2019,1,5,0,2.4,4,-1.6,0,-0.36,0.42,0,0,
+Norwich,Chelsea,Norwich,02-Mar,TRUE,Home,English Premier League,2019/20,8/24/2019,2,3,0,0.9,1.9,-1,0,-0.36,0.42,0,0,
+Norwich,Crystal Palace,Norwich,01-Jan,TRUE,Home,English Premier League,2019/20,01/01/2020,1,1,1,1.7,1.4,0.3,1,-0.36,0.42,0,0,
+Norwich,Arsenal,Norwich,02-Feb,TRUE,Home,English Premier League,2019/20,12/01/2019,2,2,1,0.9,2.2,-1.3,0,-0.36,0.42,-1,,-1
+Norwich,Tottenham,Norwich,02-Feb,TRUE,Home,English Premier League,2019/20,12/28/2019,2,2,1,0.3,2,-1.7,0,-0.36,0.42,-1,,-1
+Norwich,Bournemouth,Norwich,1-0,TRUE,Home,English Premier League,2019/20,1/18/2020,1,0,3,1.7,0.7,1.1,3,-0.36,0.42,0,0,
+Norwich,Leicester,Norwich,1-0,TRUE,Home,English Premier League,2019/20,2/28/2020,1,0,3,0.6,1.4,-0.8,0,-0.36,0.42,-3,,-3
+Norwich,Newcastle,Norwich,03-Jan,TRUE,Home,English Premier League,2019/20,8/17/2019,3,1,3,1.4,0.6,0.8,3,-0.36,0.42,0,0,
+Norwich,Man City,Norwich,03-Feb,TRUE,Home,English Premier League,2019/20,9/14/2019,3,2,3,1.5,2.6,-1.1,0,-0.36,0.42,-3,,-3
+Sheffield United,Sheffield United,Liverpool,01-Feb,TRUE,Away,English Premier League,2020/21,10/24/2020,1,2,0,1.5,3,-1.5,0,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Arsenal,01-Feb,TRUE,Away,English Premier League,2020/21,10/04/2020,1,2,0,0.2,0.6,-0.4,0,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Aston Villa,0-1,TRUE,Away,English Premier League,2020/21,9/21/2020,0,1,0,0.9,0.9,0,1,-0.36,0.42,1,1,
+Sheffield United,Sheffield United,Leicester,0-2,TRUE,Away,English Premier League,2019/20,7/16/2020,0,2,0,0.8,3.1,-2.2,0,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Liverpool,0-2,TRUE,Away,English Premier League,2019/20,01/02/2020,0,2,0,0.7,4.3,-3.6,0,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Man City,0-2,TRUE,Away,English Premier League,2019/20,12/29/2019,0,2,0,1.2,1.2,0,1,-0.36,0.42,1,1,
+Sheffield United,Sheffield United,Man United,0-3,TRUE,Away,English Premier League,2019/20,6/24/2020,0,3,0,0.1,3,-2.9,0,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Newcastle,0-3,TRUE,Away,English Premier League,2019/20,6/21/2020,0,3,0,0.7,2,-1.3,0,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Southampton,01-Mar,TRUE,Away,English Premier League,2019/20,7/26/2020,1,3,0,1.5,1.7,-0.2,1,-0.36,0.42,1,1,
+Sheffield United,Sheffield United,Aston Villa,0-0,TRUE,Away,English Premier League,2019/20,6/17/2020,0,0,1,0.4,1.4,-1,0,-0.36,0.42,-1,,-1
+Sheffield United,Sheffield United,Watford,0-0,TRUE,Away,English Premier League,2019/20,10/05/2019,0,0,1,0.4,1.6,-1.2,0,-0.36,0.42,-1,,-1
+Sheffield United,Sheffield United,Arsenal,01-Jan,TRUE,Away,English Premier League,2019/20,1/18/2020,1,1,1,1.1,1.1,0,1,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Bournemouth,01-Jan,TRUE,Away,English Premier League,2019/20,08/10/2019,1,1,1,1.3,1.5,-0.2,1,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Burnley,01-Jan,TRUE,Away,English Premier League,2019/20,07/05/2020,1,1,1,1.5,1.4,0.1,1,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Tottenham,01-Jan,TRUE,Away,English Premier League,2019/20,11/09/2019,1,1,1,1.1,2,-0.9,0,-0.36,0.42,-1,,-1
+Sheffield United,Sheffield United,West Ham,01-Jan,TRUE,Away,English Premier League,2019/20,10/26/2019,1,1,1,1.1,2.9,-1.8,0,-0.36,0.42,-1,,-1
+Sheffield United,Sheffield United,Wolves,01-Jan,TRUE,Away,English Premier League,2019/20,12/01/2019,1,1,1,1.4,1.4,0,1,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Chelsea,02-Feb,TRUE,Away,English Premier League,2019/20,8/31/2019,2,2,1,1.1,2.4,-1.3,0,-0.36,0.42,-1,,-1
+Sheffield United,Sheffield United,Brighton,1-0,TRUE,Away,English Premier League,2019/20,12/21/2019,1,0,3,1.1,0.5,0.6,3,-0.36,0.42,0,0,
+Sheffield United,Sheffield United,Crystal Palace,1-0,TRUE,Away,English Premier League,2019/20,02/01/2020,1,0,3,0.8,1.1,-0.3,1,-0.36,0.42,-2,,-2
+Sheffield United,Sheffield United,Everton,2-0,TRUE,Away,English Premier League,2019/20,9/21/2019,2,0,3,0.3,1.1,-0.8,0,-0.36,0.42,-3,,-3
+Sheffield United,Sheffield United,Norwich,02-Jan,TRUE,Away,English Premier League,2019/20,12/08/2019,2,1,3,0.8,0.6,0.1,1,-0.36,0.42,-2,,-2
+Sheffield United,Everton,Sheffield United,0-1,TRUE,Home,English Premier League,2019/20,7/20/2020,0,1,0,0.7,0.7,0,1,-0.36,0.42,1,1,
+Sheffield United,Liverpool,Sheffield United,0-1,TRUE,Home,English Premier League,2019/20,9/28/2019,0,1,0,1.3,2.3,-1,0,-0.36,0.42,0,0,
+Sheffield United,Man City,Sheffield United,0-1,TRUE,Home,English Premier League,2019/20,1/21/2020,0,1,0,0.8,2.9,-2.1,0,-0.36,0.42,0,0,
+Sheffield United,Southampton,Sheffield United,0-1,TRUE,Home,English Premier League,2019/20,9/14/2019,0,1,0,2,1.6,0.4,1,-0.36,0.42,1,1,
+Sheffield United,Leeds,Sheffield United,0-1,TRUE,Home,English Premier League,2020/21,9/27/2020,0,1,0,1.6,1.3,0.3,1,-0.36,0.42,1,1,
+Sheffield United,Man City,Sheffield United,0-1,TRUE,Home,English Premier League,2020/21,10/31/2020,0,1,0,0.7,1.8,-1.1,0,-0.36,0.42,0,0,
+Sheffield United,Newcastle,Sheffield United,0-2,TRUE,Home,English Premier League,2019/20,12/05/2019,0,2,0,1.2,0.5,0.7,3,-0.36,0.42,3,3,
+Sheffield United,Wolves,Sheffield United,0-2,TRUE,Home,English Premier League,2020/21,9/14/2020,0,2,0,0.9,1.8,-0.9,0,-0.36,0.42,0,0,
+Sheffield United,Leicester,Sheffield United,01-Feb,TRUE,Home,English Premier League,2019/20,8/24/2019,1,2,0,0.8,0.8,0,1,-0.36,0.42,1,1,
+Sheffield United,Brighton,Sheffield United,01-Jan,TRUE,Home,English Premier League,2019/20,2/22/2020,1,1,1,2.1,1.1,1,3,-0.36,0.42,2,2,
+Sheffield United,Watford,Sheffield United,01-Jan,TRUE,Home,English Premier League,2019/20,12/26/2019,1,1,1,2.4,0.5,1.9,3,-0.36,0.42,2,2,
+Sheffield United,Fulham,Sheffield United,01-Jan,TRUE,Home,English Premier League,2020/21,10/18/2020,1,1,1,1.7,1.5,0.2,1,-0.36,0.42,0,0,
+Sheffield United,Man United,Sheffield United,03-Mar,TRUE,Home,English Premier League,2019/20,11/24/2019,3,3,1,1.8,1.4,0.4,3,-0.36,0.42,2,2,
+Sheffield United,Arsenal,Sheffield United,1-0,TRUE,Home,English Premier League,2019/20,10/21/2019,1,0,3,0.8,1.1,-0.3,1,-0.36,0.42,-2,,-2
+Sheffield United,Crystal Palace,Sheffield United,1-0,TRUE,Home,English Premier League,2019/20,8/18/2019,1,0,3,2,0.3,1.7,3,-0.36,0.42,0,0,
+Sheffield United,Norwich,Sheffield United,1-0,TRUE,Home,English Premier League,2019/20,03/07/2020,1,0,3,1.2,1.5,-0.3,1,-0.36,0.42,-2,,-2
+Sheffield United,West Ham,Sheffield United,1-0,TRUE,Home,English Premier League,2019/20,01/10/2020,1,0,3,2.1,1.1,1,3,-0.36,0.42,0,0,
+Sheffield United,Wolves,Sheffield United,1-0,TRUE,Home,English Premier League,2019/20,07/08/2020,1,0,3,0.5,0.3,0.2,1,-0.36,0.42,-2,,-2
+Sheffield United,Aston Villa,Sheffield United,2-0,TRUE,Home,English Premier League,2019/20,12/14/2019,2,0,3,2,1.1,0.9,3,-0.36,0.42,0,0,
+Sheffield United,Bournemouth,Sheffield United,02-Jan,TRUE,Home,English Premier League,2019/20,02/09/2020,2,1,3,1.9,1.3,0.6,3,-0.36,0.42,0,0,
+Sheffield United,Burnley,Sheffield United,3-0,TRUE,Home,English Premier League,2019/20,11/02/2019,3,0,3,2.8,0.8,2,3,-0.36,0.42,0,0,
+Sheffield United,Chelsea,Sheffield United,3-0,TRUE,Home,English Premier League,2019/20,07/11/2020,3,0,3,1.9,1.3,0.6,3,-0.36,0.42,0,0,
+Sheffield United,Tottenham,Sheffield United,03-Jan,TRUE,Home,English Premier League,2019/20,07/02/2020,3,1,3,1.4,1.2,0.3,1,-0.36,0.42,-2,,-2
+Southampton,Southampton,Aston Villa,04-Mar,TRUE,Away,English Premier League,2020/21,11/01/2020,4,3,3,0.9,2.3,-1.5,0,-0.36,0.42,-3,,-3
+Southampton,Southampton,Chelsea,03-Mar,TRUE,Away,English Premier League,2020/21,10/17/2020,3,3,1,1.6,1.6,0.1,1,-0.36,0.42,0,0,
+Southampton,Southampton,Burnley,1-0,TRUE,Away,English Premier League,2020/21,9/26/2020,1,0,3,0.7,0.5,0.2,1,-0.36,0.42,-2,,-2
+Southampton,Southampton,Crystal Palace,0-1,TRUE,Away,English Premier League,2020/21,09/12/2020,0,1,0,1.2,1.5,-0.4,1,-0.36,0.42,1,1,
+Southampton,Southampton,Burnley,0-3,TRUE,Away,English Premier League,2019/20,08/10/2019,0,3,0,1.2,1,0.2,1,-0.36,0.42,1,1,
+Southampton,Southampton,Liverpool,0-4,TRUE,Away,English Premier League,2019/20,02/01/2020,0,4,0,0.8,4.1,-3.4,0,-0.36,0.42,0,0,
+Southampton,Southampton,Man City,01-Feb,TRUE,Away,English Premier League,2019/20,11/02/2019,1,2,0,0.7,3.8,-3.1,0,-0.36,0.42,0,0,
+Southampton,Southampton,Newcastle,01-Feb,TRUE,Away,English Premier League,2019/20,12/08/2019,1,2,0,1.9,1.2,0.7,3,-0.36,0.42,3,3,
+Southampton,Southampton,Tottenham,01-Feb,TRUE,Away,English Premier League,2019/20,9/28/2019,1,2,0,1.3,1.4,-0.2,1,-0.36,0.42,1,1,
+Southampton,Southampton,West Ham,01-Mar,TRUE,Away,English Premier League,2019/20,2/29/2020,1,3,0,0.9,2.6,-1.7,0,-0.36,0.42,0,0,
+Southampton,Southampton,Everton,01-Jan,TRUE,Away,English Premier League,2019/20,07/09/2020,1,1,1,2.2,0.8,1.4,3,-0.36,0.42,2,2,
+Southampton,Southampton,Wolves,01-Jan,TRUE,Away,English Premier League,2019/20,10/19/2019,1,1,1,1.4,0.9,0.5,3,-0.36,0.42,2,2,
+Southampton,Southampton,Arsenal,02-Feb,TRUE,Away,English Premier League,2019/20,11/23/2019,2,2,1,3,2.1,0.9,3,-0.36,0.42,2,2,
+Southampton,Southampton,Man United,02-Feb,TRUE,Away,English Premier League,2019/20,7/13/2020,2,2,1,1.5,1.4,0.1,1,-0.36,0.42,0,0,
+Southampton,Southampton,Sheffield United,1-0,TRUE,Away,English Premier League,2019/20,9/14/2019,1,0,3,1.6,2,-0.4,1,-0.36,0.42,-2,,-2
+Southampton,Southampton,Bournemouth,2-0,TRUE,Away,English Premier League,2019/20,7/19/2020,2,0,3,2.4,0.6,1.9,3,-0.36,0.42,0,0,
+Southampton,Southampton,Brighton,2-0,TRUE,Away,English Premier League,2019/20,8/24/2019,2,0,3,1.9,1.2,0.6,3,-0.36,0.42,0,0,
+Southampton,Southampton,Chelsea,2-0,TRUE,Away,English Premier League,2019/20,12/26/2019,2,0,3,1,0.9,0,1,-0.36,0.42,-2,,-2
+Southampton,Southampton,Crystal Palace,2-0,TRUE,Away,English Premier League,2019/20,1/21/2020,2,0,3,0.9,0.6,0.3,1,-0.36,0.42,-2,,-2
+Southampton,Southampton,Leicester,02-Jan,TRUE,Away,English Premier League,2019/20,01/11/2020,2,1,3,2.3,0.8,1.5,3,-0.36,0.42,0,0,
+Southampton,Southampton,Norwich,3-0,TRUE,Away,English Premier League,2019/20,6/19/2020,3,0,3,1.7,0.7,1,3,-0.36,0.42,0,0,
+Southampton,Southampton,Aston Villa,03-Jan,TRUE,Away,English Premier League,2019/20,12/21/2019,3,1,3,2.6,1.3,1.3,3,-0.36,0.42,0,0,
+Southampton,Southampton,Watford,03-Jan,TRUE,Away,English Premier League,2019/20,6/28/2020,3,1,3,1.2,0.8,0.4,1,-0.36,0.42,-2,,-2
+Southampton,Newcastle,Southampton,0-1,TRUE,Home,English Premier League,2019/20,03/07/2020,0,1,0,0.4,3.4,-3.1,0,-0.36,0.42,0,0,
+Southampton,West Ham,Southampton,0-1,TRUE,Home,English Premier League,2019/20,12/14/2019,0,1,0,0.9,1.1,-0.2,1,-0.36,0.42,1,1,
+Southampton,Arsenal,Southampton,0-2,TRUE,Home,English Premier League,2019/20,6/25/2020,0,2,0,0.8,2.2,-1.4,0,-0.36,0.42,0,0,
+Southampton,Leicester,Southampton,0-9,TRUE,Home,English Premier League,2019/20,10/25/2019,0,9,0,0.4,4.4,-4,0,-0.36,0.42,0,0,
+Southampton,Burnley,Southampton,01-Feb,TRUE,Home,English Premier League,2019/20,2/15/2020,1,2,0,0.6,0.9,-0.3,1,-0.36,0.42,1,1,
+Southampton,Everton,Southampton,01-Feb,TRUE,Home,English Premier League,2019/20,11/09/2019,1,2,0,0.6,2.3,-1.7,0,-0.36,0.42,0,0,
+Southampton,Liverpool,Southampton,01-Feb,TRUE,Home,English Premier League,2019/20,8/17/2019,1,2,0,2,1.8,0.2,1,-0.36,0.42,1,1,
+Southampton,Bournemouth,Southampton,01-Mar,TRUE,Home,English Premier League,2019/20,9/20/2019,1,3,0,2.6,1.3,1.3,3,-0.36,0.42,3,3,
+Southampton,Chelsea,Southampton,01-Apr,TRUE,Home,English Premier League,2019/20,10/06/2019,1,4,0,1.3,1.8,-0.5,0,-0.36,0.42,0,0,
+Southampton,Wolves,Southampton,02-Mar,TRUE,Home,English Premier League,2019/20,1/18/2020,2,3,0,0.8,2.6,-1.8,0,-0.36,0.42,0,0,
+Southampton,Tottenham,Southampton,02-May,TRUE,Home,English Premier League,2020/21,9/20/2020,2,5,0,2.3,2.9,-0.6,0,-0.36,0.42,0,0,
+Southampton,Brighton,Southampton,01-Jan,TRUE,Home,English Premier League,2019/20,7/16/2020,1,1,1,2.4,0.9,1.5,3,-0.36,0.42,2,2,
+Southampton,Crystal Palace,Southampton,01-Jan,TRUE,Home,English Premier League,2019/20,12/28/2019,1,1,1,1.6,0.2,1.3,3,-0.36,0.42,2,2,
+Southampton,Man United,Southampton,01-Jan,TRUE,Home,English Premier League,2019/20,8/31/2019,1,1,1,0.8,1.8,-1,0,-0.36,0.42,-1,,-1
+Southampton,Man City,Southampton,1-0,TRUE,Home,English Premier League,2019/20,07/05/2020,1,0,3,0.7,3.6,-2.9,0,-0.36,0.42,-3,,-3
+Southampton,Tottenham,Southampton,1-0,TRUE,Home,English Premier League,2019/20,01/01/2020,1,0,3,1.3,1.2,0.1,1,-0.36,0.42,-2,,-2
+Southampton,Aston Villa,Southampton,2-0,TRUE,Home,English Premier League,2019/20,2/22/2020,2,0,3,2.6,0.3,2.3,3,-0.36,0.42,0,0,
+Southampton,Everton,Southampton,2-0,TRUE,Home,English Premier League,2020/21,10/25/2020,2,0,3,0.6,0.5,0.2,1,-0.36,0.42,-2,,-2
+Southampton,West Brom,Southampton,2-0,TRUE,Home,English Premier League,2020/21,10/04/2020,2,0,3,1,0.2,0.8,3,-0.36,0.42,0,0,
+Southampton,Norwich,Southampton,02-Jan,TRUE,Home,English Premier League,2019/20,12/04/2019,2,1,3,1.8,0.9,0.9,3,-0.36,0.42,0,0,
+Southampton,Watford,Southampton,02-Jan,TRUE,Home,English Premier League,2019/20,11/30/2019,2,1,3,1.7,0.5,1.2,3,-0.36,0.42,0,0,
+Southampton,Sheffield United,Southampton,03-Jan,TRUE,Home,English Premier League,2019/20,7/26/2020,3,1,3,1.7,1.5,0.2,1,-0.36,0.42,-2,,-2
+Tottenham,Tottenham,Burnley,1-0,TRUE,Away,English Premier League,2020/21,10/26/2020,1,0,3,1.1,1.2,-0.1,1,-0.36,0.42,-2,,-2
+Tottenham,Tottenham,Man United,06-Jan,TRUE,Away,English Premier League,2020/21,10/04/2020,6,1,3,3.8,0.9,2.8,3,-0.36,0.42,0,0,
+Tottenham,Tottenham,Southampton,05-Feb,TRUE,Away,English Premier League,2020/21,9/20/2020,5,2,3,2.9,2.3,0.6,3,-0.36,0.42,0,0,
+Tottenham,Tottenham,Southampton,0-1,TRUE,Away,English Premier League,2019/20,01/01/2020,0,1,0,1.2,1.3,-0.1,1,-0.36,0.42,1,1,
+Tottenham,Tottenham,Brighton,0-3,TRUE,Away,English Premier League,2019/20,10/05/2019,0,3,0,0.5,2.2,-1.7,0,-0.36,0.42,0,0,
+Tottenham,Tottenham,Chelsea,01-Feb,TRUE,Away,English Premier League,2019/20,2/22/2020,1,2,0,0.3,1.6,-1.4,0,-0.36,0.42,0,0,
+Tottenham,Tottenham,Leicester,01-Feb,TRUE,Away,English Premier League,2019/20,9/21/2019,1,2,0,1.5,1.3,0.3,1,-0.36,0.42,1,1,
+Tottenham,Tottenham,Liverpool,01-Feb,TRUE,Away,English Premier League,2019/20,10/27/2019,1,2,0,1.5,2.8,-1.3,0,-0.36,0.42,0,0,
+Tottenham,Tottenham,Man United,01-Feb,TRUE,Away,English Premier League,2019/20,12/04/2019,1,2,0,1,1.4,-0.4,0,-0.36,0.42,0,0,
+Tottenham,Tottenham,Sheffield United,01-Mar,TRUE,Away,English Premier League,2019/20,07/02/2020,1,3,0,1.2,1.4,-0.3,1,-0.36,0.42,1,1,
+Tottenham,Tottenham,Bournemouth,0-0,TRUE,Away,English Premier League,2019/20,07/09/2020,0,0,1,0.6,1.3,-0.6,0,-0.36,0.42,-1,,-1
+Tottenham,Tottenham,Watford,0-0,TRUE,Away,English Premier League,2019/20,1/18/2020,0,0,1,1.9,2.4,-0.6,0,-0.36,0.42,-1,,-1
+Tottenham,Tottenham,Burnley,01-Jan,TRUE,Away,English Premier League,2019/20,03/07/2020,1,1,1,1.2,3.3,-2.1,0,-0.36,0.42,-1,,-1
+Tottenham,Tottenham,Crystal Palace,01-Jan,TRUE,Away,English Premier League,2019/20,7/26/2020,1,1,1,0.4,1.2,-0.8,0,-0.36,0.42,-1,,-1
+Tottenham,Tottenham,Everton,01-Jan,TRUE,Away,English Premier League,2019/20,11/03/2019,1,1,1,0.2,1.1,-0.9,0,-0.36,0.42,-1,,-1
+Tottenham,Tottenham,Arsenal,02-Feb,TRUE,Away,English Premier League,2019/20,09/01/2019,2,2,1,2.1,2.4,-0.3,1,-0.36,0.42,0,0,
+Tottenham,Tottenham,Man City,02-Feb,TRUE,Away,English Premier League,2019/20,8/17/2019,2,2,1,0.2,3.5,-3.4,0,-0.36,0.42,-1,,-1
+Tottenham,Tottenham,Norwich,02-Feb,TRUE,Away,English Premier League,2019/20,12/28/2019,2,2,1,2,0.3,1.7,3,-0.36,0.42,2,2,
+Tottenham,Tottenham,Wolves,02-Jan,TRUE,Away,English Premier League,2019/20,12/15/2019,2,1,3,0.9,0.8,0.1,1,-0.36,0.42,-2,,-2
+Tottenham,Tottenham,Newcastle,03-Jan,TRUE,Away,English Premier League,2019/20,7/15/2020,3,1,3,1.4,1.2,0.2,1,-0.36,0.42,-2,,-2
+Tottenham,Tottenham,Aston Villa,03-Feb,TRUE,Away,English Premier League,2019/20,2/16/2020,3,2,3,4.5,2,2.6,3,-0.36,0.42,0,0,
+Tottenham,Tottenham,West Ham,03-Feb,TRUE,Away,English Premier League,2019/20,11/23/2019,3,2,3,2.4,0.7,1.7,3,-0.36,0.42,0,0,
+Tottenham,Liverpool,Tottenham,0-1,TRUE,Home,English Premier League,2019/20,01/11/2020,0,1,0,1.4,1.9,-0.5,0,-0.36,0.42,0,0,
+Tottenham,Newcastle,Tottenham,0-1,TRUE,Home,English Premier League,2019/20,8/25/2019,0,1,0,1.7,0.5,1.2,3,-0.36,0.42,3,3,
+Tottenham,Everton,Tottenham,0-1,TRUE,Home,English Premier League,2020/21,9/13/2020,0,1,0,1,1.1,-0.1,1,-0.36,0.42,1,1,
+Tottenham,Chelsea,Tottenham,0-2,TRUE,Home,English Premier League,2019/20,12/22/2019,0,2,0,0.4,1.4,-0.9,0,-0.36,0.42,0,0,
+Tottenham,Wolves,Tottenham,02-Mar,TRUE,Home,English Premier League,2019/20,03/01/2020,2,3,0,2.1,2.5,-0.4,0,-0.36,0.42,0,0,
+Tottenham,Man United,Tottenham,01-Jan,TRUE,Home,English Premier League,2019/20,6/19/2020,1,1,1,0.6,1.9,-1.3,0,-0.36,0.42,-1,,-1
+Tottenham,Sheffield United,Tottenham,01-Jan,TRUE,Home,English Premier League,2019/20,11/09/2019,1,1,1,2,1.1,0.9,3,-0.36,0.42,2,2,
+Tottenham,Watford,Tottenham,01-Jan,TRUE,Home,English Premier League,2019/20,10/19/2019,1,1,1,1,0.9,0.1,1,-0.36,0.42,0,0,
+Tottenham,Newcastle,Tottenham,01-Jan,TRUE,Home,English Premier League,2020/21,9/27/2020,1,1,1,3.6,1,2.7,3,-0.36,0.42,2,2,
+Tottenham,West Ham,Tottenham,03-Mar,TRUE,Home,English Premier League,2020/21,10/18/2020,3,3,1,2.1,1.4,0.8,3,-0.36,0.42,2,2,
+Tottenham,Everton,Tottenham,1-0,TRUE,Home,English Premier League,2019/20,07/06/2020,1,0,3,0.6,0.5,0.1,1,-0.36,0.42,-2,,-2
+Tottenham,Man City,Tottenham,2-0,TRUE,Home,English Premier League,2019/20,02/02/2020,2,0,3,0.5,3.5,-2.9,0,-0.36,0.42,-3,,-3
+Tottenham,West Ham,Tottenham,2-0,TRUE,Home,English Premier League,2019/20,6/23/2020,2,0,3,2.5,0.9,1.6,3,-0.36,0.42,0,0,
+Tottenham,Arsenal,Tottenham,02-Jan,TRUE,Home,English Premier League,2019/20,07/12/2020,2,1,3,2.5,0.7,1.8,3,-0.36,0.42,0,0,
+Tottenham,Brighton,Tottenham,02-Jan,TRUE,Home,English Premier League,2019/20,12/26/2019,2,1,3,1.2,1.3,-0.1,1,-0.36,0.42,-2,,-2
+Tottenham,Norwich,Tottenham,02-Jan,TRUE,Home,English Premier League,2019/20,1/22/2020,2,1,3,2.3,1.5,0.9,3,-0.36,0.42,0,0,
+Tottenham,Southampton,Tottenham,02-Jan,TRUE,Home,English Premier League,2019/20,9/28/2019,2,1,3,1.4,1.3,0.2,1,-0.36,0.42,-2,,-2
+Tottenham,Brighton,Tottenham,02-Jan,TRUE,Home,English Premier League,2020/21,11/01/2020,2,1,3,2.1,0.3,1.8,3,-0.36,0.42,0,0,
+Tottenham,Leicester,Tottenham,3-0,TRUE,Home,English Premier League,2019/20,7/19/2020,3,0,3,1,1.6,-0.6,0,-0.36,0.42,-3,,-3
+Tottenham,Aston Villa,Tottenham,03-Jan,TRUE,Home,English Premier League,2019/20,08/10/2019,3,1,3,3.1,0.7,2.4,3,-0.36,0.42,0,0,
+Tottenham,Bournemouth,Tottenham,03-Feb,TRUE,Home,English Premier League,2019/20,11/30/2019,3,2,3,3.1,1.1,2.1,3,-0.36,0.42,0,0,
+Tottenham,Crystal Palace,Tottenham,4-0,TRUE,Home,English Premier League,2019/20,9/14/2019,4,0,3,1.4,0.7,0.6,3,-0.36,0.42,0,0,
+Tottenham,Burnley,Tottenham,5-0,TRUE,Home,English Premier League,2019/20,12/07/2019,5,0,3,2.6,1,1.7,3,-0.36,0.42,0,0,
+Watford,Watford,Burnley,0-1,TRUE,Away,English Premier League,2019/20,6/25/2020,0,1,0,0.6,0.9,-0.3,1,-0.36,0.42,1,1,
+Watford,Watford,Crystal Palace,0-1,TRUE,Away,English Premier League,2019/20,03/07/2020,0,1,0,0.6,0.7,-0.1,1,-0.36,0.42,1,1,
+Watford,Watford,Everton,0-1,TRUE,Away,English Premier League,2019/20,8/17/2019,0,1,0,1,0.8,0.3,1,-0.36,0.42,1,1,
+Watford,Watford,Leicester,0-2,TRUE,Away,English Premier League,2019/20,12/04/2019,0,2,0,0.2,2.3,-2.1,0,-0.36,0.42,0,0,
+Watford,Watford,Liverpool,0-2,TRUE,Away,English Premier League,2019/20,12/14/2019,0,2,0,1.2,1.9,-0.7,0,-0.36,0.42,0,0,
+Watford,Watford,Wolves,0-2,TRUE,Away,English Premier League,2019/20,9/28/2019,0,2,0,1.2,1,0.2,1,-0.36,0.42,1,1,
+Watford,Watford,Chelsea,0-3,TRUE,Away,English Premier League,2019/20,07/04/2020,0,3,0,1.2,2.7,-1.5,0,-0.36,0.42,0,0,
+Watford,Watford,Man United,0-3,TRUE,Away,English Premier League,2019/20,2/23/2020,0,3,0,0.3,2,-1.7,0,-0.36,0.42,0,0,
+Watford,Watford,Man City,0-8,TRUE,Away,English Premier League,2019/20,9/21/2019,0,8,0,0.3,7.1,-6.8,0,-0.36,0.42,0,0,
+Watford,Watford,Aston Villa,01-Feb,TRUE,Away,English Premier League,2019/20,1/21/2020,1,2,0,1.7,1.4,0.4,1,-0.36,0.42,1,1,
+Watford,Watford,Southampton,01-Feb,TRUE,Away,English Premier League,2019/20,11/30/2019,1,2,0,0.5,1.7,-1.2,0,-0.36,0.42,0,0,
+Watford,Watford,West Ham,01-Mar,TRUE,Away,English Premier League,2019/20,7/17/2020,1,3,0,1.3,0.7,0.6,3,-0.36,0.42,3,3,
+Watford,Watford,Arsenal,02-Mar,TRUE,Away,English Premier League,2019/20,7/26/2020,2,3,0,4.1,2.1,2.1,3,-0.36,0.42,3,3,
+Watford,Watford,Brighton,01-Jan,TRUE,Away,English Premier League,2019/20,02/08/2020,1,1,1,0.3,0.9,-0.6,0,-0.36,0.42,-1,,-1
+Watford,Watford,Newcastle,01-Jan,TRUE,Away,English Premier League,2019/20,8/31/2019,1,1,1,1.1,1.3,-0.2,1,-0.36,0.42,0,0,
+Watford,Watford,Sheffield United,01-Jan,TRUE,Away,English Premier League,2019/20,12/26/2019,1,1,1,0.5,2.4,-1.9,0,-0.36,0.42,-1,,-1
+Watford,Watford,Tottenham,01-Jan,TRUE,Away,English Premier League,2019/20,10/19/2019,1,1,1,0.9,1,-0.1,1,-0.36,0.42,0,0,
+Watford,Watford,Norwich,2-0,TRUE,Away,English Premier League,2019/20,11/08/2019,2,0,3,1.3,0.7,0.6,3,-0.36,0.42,0,0,
+Watford,Watford,Bournemouth,3-0,TRUE,Away,English Premier League,2019/20,01/12/2020,3,0,3,2.3,0.4,2,3,-0.36,0.42,0,0,
+Watford,Brighton,Watford,0-3,TRUE,Home,English Premier League,2019/20,08/10/2019,0,3,0,0.7,0.7,0,1,-0.36,0.42,1,1,
+Watford,Burnley,Watford,0-3,TRUE,Home,English Premier League,2019/20,11/23/2019,0,3,0,0.9,2.9,-2,0,-0.36,0.42,0,0,
+Watford,Man City,Watford,0-4,TRUE,Home,English Premier League,2019/20,7/21/2020,0,4,0,0.4,4,-3.7,0,-0.36,0.42,0,0,
+Watford,Chelsea,Watford,01-Feb,TRUE,Home,English Premier League,2019/20,11/02/2019,1,2,0,1.2,2.1,-0.9,0,-0.36,0.42,0,0,
+Watford,Southampton,Watford,01-Mar,TRUE,Home,English Premier League,2019/20,6/28/2020,1,3,0,0.8,1.2,-0.4,0,-0.36,0.42,0,0,
+Watford,West Ham,Watford,01-Mar,TRUE,Home,English Premier League,2019/20,8/24/2019,1,3,0,2.2,3.3,-1,0,-0.36,0.42,0,0,
+Watford,Everton,Watford,02-Mar,TRUE,Home,English Premier League,2019/20,02/01/2020,2,3,0,0.9,2.7,-1.8,0,-0.36,0.42,0,0,
+Watford,Bournemouth,Watford,0-0,TRUE,Home,English Premier League,2019/20,10/26/2019,0,0,1,0.7,1.1,-0.4,0,-0.36,0.42,-1,,-1
+Watford,Crystal Palace,Watford,0-0,TRUE,Home,English Premier League,2019/20,12/07/2019,0,0,1,1.7,0.2,1.5,3,-0.36,0.42,2,2,
+Watford,Sheffield United,Watford,0-0,TRUE,Home,English Premier League,2019/20,10/05/2019,0,0,1,1.6,0.4,1.2,3,-0.36,0.42,2,2,
+Watford,Tottenham,Watford,0-0,TRUE,Home,English Premier League,2019/20,1/18/2020,0,0,1,2.4,1.9,0.6,3,-0.36,0.42,2,2,
+Watford,Leicester,Watford,01-Jan,TRUE,Home,English Premier League,2019/20,6/20/2020,1,1,1,1.4,1.2,0.2,1,-0.36,0.42,0,0,
+Watford,Arsenal,Watford,02-Feb,TRUE,Home,English Premier League,2019/20,9/15/2019,2,2,1,3,0.9,2.2,3,-0.36,0.42,2,2,
+Watford,Man United,Watford,2-0,TRUE,Home,English Premier League,2019/20,12/22/2019,2,0,3,1.6,1.5,0.1,1,-0.36,0.42,-2,,-2
+Watford,Newcastle,Watford,02-Jan,TRUE,Home,English Premier League,2019/20,07/11/2020,2,1,3,3.3,1.3,2,3,-0.36,0.42,0,0,
+Watford,Norwich,Watford,02-Jan,TRUE,Home,English Premier League,2019/20,07/07/2020,2,1,3,0.8,1.1,-0.3,1,-0.36,0.42,-2,,-2
+Watford,Wolves,Watford,02-Jan,TRUE,Home,English Premier League,2019/20,01/01/2020,2,1,3,1.1,1.3,-0.2,1,-0.36,0.42,-2,,-2
+Watford,Aston Villa,Watford,3-0,TRUE,Home,English Premier League,2019/20,12/28/2019,3,0,3,3.4,0.7,2.7,3,-0.36,0.42,0,0,
+Watford,Liverpool,Watford,3-0,TRUE,Home,English Premier League,2019/20,2/29/2020,3,0,3,2.3,0.3,2,3,-0.36,0.42,0,0,
+West Brom,West Brom,Brighton,01-Jan,TRUE,Away,English Premier League,2020/21,10/26/2020,1,1,1,0.4,0.6,-0.3,1,-0.36,0.42,0,0,
+West Brom,West Brom,Southampton,0-2,TRUE,Away,English Premier League,2020/21,10/04/2020,0,2,0,0.2,1,-0.8,0,-0.36,0.42,0,0,
+West Brom,West Brom,Everton,02-May,TRUE,Away,English Premier League,2020/21,9/19/2020,2,5,0,0.4,3.5,-3.1,0,-0.36,0.42,0,0,
+West Brom,Leicester,West Brom,0-3,TRUE,Home,English Premier League,2020/21,9/13/2020,0,3,0,0.4,2.9,-2.4,0,-0.36,0.42,0,0,
+West Brom,Burnley,West Brom,0-0,TRUE,Home,English Premier League,2020/21,10/19/2020,0,0,1,0.8,1.2,-0.4,0,-0.36,0.42,-1,,-1
+West Brom,Chelsea,West Brom,03-Mar,TRUE,Home,English Premier League,2020/21,9/26/2020,3,3,1,0.8,2.5,-1.7,0,-0.36,0.42,-1,,-1
+West Ham,West Ham,Liverpool,01-Feb,TRUE,Away,English Premier League,2020/21,10/31/2020,1,2,0,0.3,1.7,-1.4,0,-0.36,0.42,0,0,
+West Ham,West Ham,Tottenham,03-Mar,TRUE,Away,English Premier League,2020/21,10/18/2020,3,3,1,1.4,2.1,-0.8,0,-0.36,0.42,-1,,-1
+West Ham,West Ham,Leicester,3-0,TRUE,Away,English Premier League,2020/21,10/04/2020,3,0,3,2.1,0.6,1.5,3,-0.36,0.42,0,0,
+West Ham,West Ham,Arsenal,01-Feb,TRUE,Away,English Premier League,2020/21,9/19/2020,1,2,0,2.2,1.3,0.8,3,-0.36,0.42,3,3,
+West Ham,West Ham,Arsenal,0-1,TRUE,Away,English Premier League,2019/20,03/07/2020,0,1,0,1.6,1.7,-0.2,1,-0.36,0.42,1,1,
+West Ham,West Ham,Sheffield United,0-1,TRUE,Away,English Premier League,2019/20,01/10/2020,0,1,0,1.1,2.1,-1,0,-0.36,0.42,0,0,
+West Ham,West Ham,Everton,0-2,TRUE,Away,English Premier League,2019/20,10/19/2019,0,2,0,0.5,2.2,-1.7,0,-0.36,0.42,0,0,
+West Ham,West Ham,Man City,0-2,TRUE,Away,English Premier League,2019/20,2/19/2020,0,2,0,0.1,2.3,-2.2,0,-0.36,0.42,0,0,
+West Ham,West Ham,Tottenham,0-2,TRUE,Away,English Premier League,2019/20,6/23/2020,0,2,0,0.9,2.5,-1.6,0,-0.36,0.42,0,0,
+West Ham,West Ham,Wolves,0-2,TRUE,Away,English Premier League,2019/20,12/04/2019,0,2,0,0.6,1.7,-1.1,0,-0.36,0.42,0,0,
+West Ham,West Ham,Burnley,0-3,TRUE,Away,English Premier League,2019/20,11/09/2019,0,3,0,0.5,2.1,-1.6,0,-0.36,0.42,0,0,
+West Ham,West Ham,Crystal Palace,01-Feb,TRUE,Away,English Premier League,2019/20,12/26/2019,1,2,0,0.9,2.5,-1.6,0,-0.36,0.42,0,0,
+West Ham,West Ham,Leicester,01-Apr,TRUE,Away,English Premier League,2019/20,1/22/2020,1,4,0,1.2,2.7,-1.5,0,-0.36,0.42,0,0,
+West Ham,West Ham,Liverpool,02-Mar,TRUE,Away,English Premier League,2019/20,2/24/2020,2,3,0,0.6,2.7,-2.2,0,-0.36,0.42,0,0,
+West Ham,West Ham,Aston Villa,0-0,TRUE,Away,English Premier League,2019/20,9/16/2019,0,0,1,0.6,1.5,-0.9,0,-0.36,0.42,-1,,-1
+West Ham,West Ham,Brighton,01-Jan,TRUE,Away,English Premier League,2019/20,8/17/2019,1,1,1,0.5,2.3,-1.8,0,-0.36,0.42,-1,,-1
+West Ham,West Ham,Man United,01-Jan,TRUE,Away,English Premier League,2019/20,7/22/2020,1,1,1,1.3,1,0.3,1,-0.36,0.42,0,0,
+West Ham,West Ham,Bournemouth,02-Feb,TRUE,Away,English Premier League,2019/20,9/28/2019,2,2,1,1.7,2.5,-0.9,0,-0.36,0.42,-1,,-1
+West Ham,West Ham,Newcastle,02-Feb,TRUE,Away,English Premier League,2019/20,07/05/2020,2,2,1,2.2,1.3,0.9,3,-0.36,0.42,2,2,
+West Ham,West Ham,Chelsea,1-0,TRUE,Away,English Premier League,2019/20,11/30/2019,1,0,3,1.1,3,-1.9,0,-0.36,0.42,-3,,-3
+West Ham,West Ham,Southampton,1-0,TRUE,Away,English Premier League,2019/20,12/14/2019,1,0,3,1.1,0.9,0.2,1,-0.36,0.42,-2,,-2
+West Ham,West Ham,Watford,03-Jan,TRUE,Away,English Premier League,2019/20,8/24/2019,3,1,3,3.3,2.2,1,3,-0.36,0.42,0,0,
+West Ham,West Ham,Norwich,4-0,TRUE,Away,English Premier League,2019/20,07/11/2020,4,0,3,4,0.7,3.2,3,-0.36,0.42,0,0,
+West Ham,Burnley,West Ham,0-1,TRUE,Home,English Premier League,2019/20,07/08/2020,0,1,0,2.3,1,1.3,3,-0.36,0.42,3,3,
+West Ham,Liverpool,West Ham,0-2,TRUE,Home,English Premier League,2019/20,1/29/2020,0,2,0,0.9,2.7,-1.8,0,-0.36,0.42,0,0,
+West Ham,Wolves,West Ham,0-2,TRUE,Home,English Premier League,2019/20,6/20/2020,0,2,0,0.4,1,-0.5,0,-0.36,0.42,0,0,
+West Ham,Newcastle,West Ham,0-2,TRUE,Home,English Premier League,2020/21,09/12/2020,0,2,0,1,1.5,-0.5,0,-0.36,0.42,0,0,
+West Ham,Man City,West Ham,0-5,TRUE,Home,English Premier League,2019/20,08/10/2019,0,5,0,1.3,3,-1.7,0,-0.36,0.42,0,0,
+West Ham,Crystal Palace,West Ham,01-Feb,TRUE,Home,English Premier League,2019/20,10/05/2019,1,2,0,1.4,2.1,-0.8,0,-0.36,0.42,0,0,
+West Ham,Leicester,West Ham,01-Feb,TRUE,Home,English Premier League,2019/20,12/28/2019,1,2,0,1.1,2.5,-1.5,0,-0.36,0.42,0,0,
+West Ham,Arsenal,West Ham,01-Mar,TRUE,Home,English Premier League,2019/20,12/09/2019,1,3,0,0.6,1.8,-1.1,0,-0.36,0.42,0,0,
+West Ham,Newcastle,West Ham,02-Mar,TRUE,Home,English Premier League,2019/20,11/02/2019,2,3,0,1.8,2.2,-0.5,0,-0.36,0.42,0,0,
+West Ham,Tottenham,West Ham,02-Mar,TRUE,Home,English Premier League,2019/20,11/23/2019,2,3,0,0.7,2.4,-1.7,0,-0.36,0.42,0,0,
+West Ham,Aston Villa,West Ham,01-Jan,TRUE,Home,English Premier League,2019/20,7/26/2020,1,1,1,0.8,0.9,-0.1,1,-0.36,0.42,0,0,
+West Ham,Everton,West Ham,01-Jan,TRUE,Home,English Premier League,2019/20,1/18/2020,1,1,1,1.3,1.7,-0.3,1,-0.36,0.42,0,0,
+West Ham,Sheffield United,West Ham,01-Jan,TRUE,Home,English Premier League,2019/20,10/26/2019,1,1,1,2.9,1.1,1.8,3,-0.36,0.42,2,2,
+West Ham,Man City,West Ham,01-Jan,TRUE,Home,English Premier League,2020/21,10/24/2020,1,1,1,0.3,1.1,-0.8,0,-0.36,0.42,-1,,-1
+West Ham,Brighton,West Ham,03-Mar,TRUE,Home,English Premier League,2019/20,02/01/2020,3,3,1,1.4,2.1,-0.7,0,-0.36,0.42,-1,,-1
+West Ham,Man United,West Ham,2-0,TRUE,Home,English Premier League,2019/20,9/22/2019,2,0,3,0.5,1.3,-0.7,0,-0.36,0.42,-3,,-3
+West Ham,Norwich,West Ham,2-0,TRUE,Home,English Premier League,2019/20,8/31/2019,2,0,3,2.1,1.3,0.8,3,-0.36,0.42,0,0,
+West Ham,Southampton,West Ham,03-Jan,TRUE,Home,English Premier League,2019/20,2/29/2020,3,1,3,2.6,0.9,1.7,3,-0.36,0.42,0,0,
+West Ham,Watford,West Ham,03-Jan,TRUE,Home,English Premier League,2019/20,7/17/2020,3,1,3,0.7,1.3,-0.6,0,-0.36,0.42,-3,,-3
+West Ham,Chelsea,West Ham,03-Feb,TRUE,Home,English Premier League,2019/20,07/01/2020,3,2,3,1.7,1.7,0,1,-0.36,0.42,-2,,-2
+West Ham,Bournemouth,West Ham,4-0,TRUE,Home,English Premier League,2019/20,01/01/2020,4,0,3,2.1,0.6,1.5,3,-0.36,0.42,0,0,
+West Ham,Wolves,West Ham,4-0,TRUE,Home,English Premier League,2020/21,9/27/2020,4,0,3,3,0.5,2.5,3,-0.36,0.42,0,0,
+Wolves,Wolves,Leeds,1-0,TRUE,Away,English Premier League,2020/21,10/19/2020,1,0,3,0.7,1.2,-0.5,0,-0.36,0.42,-3,,-3
+Wolves,Wolves,West Ham,0-4,TRUE,Away,English Premier League,2020/21,9/27/2020,0,4,0,0.5,3,-2.5,0,-0.36,0.42,0,0,
+Wolves,Wolves,Sheffield United,2-0,TRUE,Away,English Premier League,2020/21,9/14/2020,2,0,3,1.8,0.9,0.9,3,-0.36,0.42,0,0,
+Wolves,Wolves,Liverpool,0-1,TRUE,Away,English Premier League,2019/20,12/29/2019,0,1,0,0.5,1.8,-1.3,0,-0.36,0.42,0,0,
+Wolves,Wolves,Sheffield United,0-1,TRUE,Away,English Premier League,2019/20,07/08/2020,0,1,0,0.3,0.5,-0.2,1,-0.36,0.42,1,1,
+Wolves,Wolves,Chelsea,0-2,TRUE,Away,English Premier League,2019/20,7/26/2020,0,2,0,0.2,0.9,-0.7,0,-0.36,0.42,0,0,
+Wolves,Wolves,Watford,01-Feb,TRUE,Away,English Premier League,2019/20,01/01/2020,1,2,0,1.3,1.1,0.2,1,-0.36,0.42,1,1,
+Wolves,Wolves,Everton,02-Mar,TRUE,Away,English Premier League,2019/20,09/01/2019,2,3,0,2.2,1.5,0.7,3,-0.36,0.42,3,3,
+Wolves,Wolves,Leicester,0-0,TRUE,Away,English Premier League,2019/20,08/11/2019,0,0,1,0.5,0.7,-0.2,1,-0.36,0.42,0,0,
+Wolves,Wolves,Man United,0-0,TRUE,Away,English Premier League,2019/20,02/01/2020,0,0,1,1.2,0.9,0.3,1,-0.36,0.42,0,0,
+Wolves,Wolves,Arsenal,01-Jan,TRUE,Away,English Premier League,2019/20,11/02/2019,1,1,1,1.5,1.1,0.5,3,-0.36,0.42,2,2,
+Wolves,Wolves,Burnley,01-Jan,TRUE,Away,English Premier League,2019/20,7/15/2020,1,1,1,1.3,1.6,-0.3,1,-0.36,0.42,0,0,
+Wolves,Wolves,Crystal Palace,01-Jan,TRUE,Away,English Premier League,2019/20,9/22/2019,1,1,1,1.7,1,0.7,3,-0.36,0.42,2,2,
+Wolves,Wolves,Newcastle,01-Jan,TRUE,Away,English Premier League,2019/20,10/27/2019,1,1,1,1.9,0.8,1.2,3,-0.36,0.42,2,2,
+Wolves,Wolves,Brighton,02-Feb,TRUE,Away,English Premier League,2019/20,12/08/2019,2,2,1,2,1,1,3,-0.36,0.42,2,2,
+Wolves,Wolves,Aston Villa,1-0,TRUE,Away,English Premier League,2019/20,6/27/2020,1,0,3,0.6,0.5,0.1,1,-0.36,0.42,-2,,-2
+Wolves,Wolves,Man City,2-0,TRUE,Away,English Premier League,2019/20,10/06/2019,2,0,3,1.3,1.9,-0.6,0,-0.36,0.42,-3,,-3
+Wolves,Wolves,West Ham,2-0,TRUE,Away,English Premier League,2019/20,6/20/2020,2,0,3,1,0.4,0.5,3,-0.36,0.42,0,0,
+Wolves,Wolves,Bournemouth,02-Jan,TRUE,Away,English Premier League,2019/20,11/23/2019,2,1,3,1.3,0.9,0.4,3,-0.36,0.42,0,0,
+Wolves,Wolves,Norwich,02-Jan,TRUE,Away,English Premier League,2019/20,12/21/2019,2,1,3,2,1.2,0.8,3,-0.36,0.42,0,0,
+Wolves,Wolves,Southampton,03-Feb,TRUE,Away,English Premier League,2019/20,1/18/2020,3,2,3,2.6,0.8,1.8,3,-0.36,0.42,0,0,
+Wolves,Wolves,Tottenham,03-Feb,TRUE,Away,English Premier League,2019/20,03/01/2020,3,2,3,2.5,2.1,0.4,3,-0.36,0.42,0,0,
+Wolves,Arsenal,Wolves,0-2,TRUE,Home,English Premier League,2019/20,07/04/2020,0,2,0,1,1.5,-0.5,0,-0.36,0.42,0,0,
+Wolves,Liverpool,Wolves,01-Feb,TRUE,Home,English Premier League,2019/20,1/23/2020,1,2,0,1.8,1.4,0.4,1,-0.36,0.42,1,1,
+Wolves,Tottenham,Wolves,01-Feb,TRUE,Home,English Premier League,2019/20,12/15/2019,1,2,0,0.8,0.9,-0.1,1,-0.36,0.42,1,1,
+Wolves,Man City,Wolves,01-Mar,TRUE,Home,English Premier League,2020/21,9/21/2020,1,3,0,0.8,2.2,-1.4,0,-0.36,0.42,0,0,
+Wolves,Chelsea,Wolves,02-May,TRUE,Home,English Premier League,2019/20,9/14/2019,2,5,0,1.6,2.5,-1,0,-0.36,0.42,0,0,
+Wolves,Brighton,Wolves,0-0,TRUE,Home,English Premier League,2019/20,03/07/2020,0,0,1,0.8,0.3,0.5,3,-0.36,0.42,2,2,
+Wolves,Leicester,Wolves,0-0,TRUE,Home,English Premier League,2019/20,2/14/2020,0,0,1,1.2,0.7,0.5,3,-0.36,0.42,2,2,
+Wolves,Burnley,Wolves,01-Jan,TRUE,Home,English Premier League,2019/20,8/25/2019,1,1,1,1.5,1.5,0,1,-0.36,0.42,0,0,
+Wolves,Man United,Wolves,01-Jan,TRUE,Home,English Premier League,2019/20,8/19/2019,1,1,1,0.3,1.2,-0.9,0,-0.36,0.42,-1,,-1
+Wolves,Newcastle,Wolves,01-Jan,TRUE,Home,English Premier League,2019/20,01/11/2020,1,1,1,1.7,0.2,1.5,3,-0.36,0.42,2,2,
+Wolves,Sheffield United,Wolves,01-Jan,TRUE,Home,English Premier League,2019/20,12/01/2019,1,1,1,1.4,1.4,0,1,-0.36,0.42,0,0,
+Wolves,Southampton,Wolves,01-Jan,TRUE,Home,English Premier League,2019/20,10/19/2019,1,1,1,0.9,1.4,-0.5,0,-0.36,0.42,-1,,-1
+Wolves,Newcastle,Wolves,01-Jan,TRUE,Home,English Premier League,2020/21,10/25/2020,1,1,1,0.9,0.3,0.6,3,-0.36,0.42,2,2,
+Wolves,Bournemouth,Wolves,1-0,TRUE,Home,English Premier League,2019/20,6/24/2020,1,0,3,0.8,0.1,0.7,3,-0.36,0.42,0,0,
+Wolves,Fulham,Wolves,1-0,TRUE,Home,English Premier League,2020/21,10/04/2020,1,0,3,1.1,1,0.1,1,-0.36,0.42,-2,,-2
+Wolves,Crystal Palace,Wolves,2-0,TRUE,Home,English Premier League,2019/20,7/20/2020,2,0,3,1.4,0.5,0.9,3,-0.36,0.42,0,0,
+Wolves,Watford,Wolves,2-0,TRUE,Home,English Premier League,2019/20,9/28/2019,2,0,3,1,1.2,-0.2,1,-0.36,0.42,-2,,-2
+Wolves,West Ham,Wolves,2-0,TRUE,Home,English Premier League,2019/20,12/04/2019,2,0,3,1.7,0.6,1.1,3,-0.36,0.42,0,0,
+Wolves,Crystal Palace,Wolves,2-0,TRUE,Home,English Premier League,2020/21,10/30/2020,2,0,3,1.6,0.9,0.8,3,-0.36,0.42,0,0,
+Wolves,Aston Villa,Wolves,02-Jan,TRUE,Home,English Premier League,2019/20,11/10/2019,2,1,3,2,0.6,1.4,3,-0.36,0.42,0,0,
+Wolves,Everton,Wolves,3-0,TRUE,Home,English Premier League,2019/20,07/12/2020,3,0,3,2.9,0.3,2.5,3,-0.36,0.42,0,0,
+Wolves,Norwich,Wolves,3-0,TRUE,Home,English Premier League,2019/20,2/23/2020,3,0,3,3.2,0.4,2.8,3,-0.36,0.42,0,0,
+Wolves,Man City,Wolves,03-Feb,TRUE,Home,English Premier League,2019/20,12/27/2019,3,2,3,2.4,1.8,0.6,3,-0.36,0.42,0,0,
