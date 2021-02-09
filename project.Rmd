@@ -91,4 +91,18 @@ print(cors)
 library(corrplot)
 corrplot(cors)
 ```
+The correlation between goals scored and expected goals scored is 0.6, but only when you include observations for all teams.
+
+Breaking it down by team we discover that the relationship ranges from strong to weak depending on the team.
+
+```{r}
+team.cors <- data.frame()
+for (t in unique(data$Team)) {
+  t.data <- subset(data, data$Team == t)
+  team.cors <- rbind(team.cors, c(t, cor(t.data$GS, t.data$xG)))
+}
+colnames(team.cors) <- c("Team", "GS/xG Correlation")
+team.cors <- team.cors[order(team.cors$`GS/xG Correlation`, decreasing = TRUE),]
+print(team.cors)
+```
 
