@@ -17,24 +17,35 @@ There are 892 matches and 21 features of the data.
 nrow(data)
 ncol(data)
 ```
+Expected Goals, or `xG`, are the number of goals a team should have scored when considering the number and type of chances they had in a match.
 
-The "Score" column contains sometimes invalid scores e.g. "01-Mar". *How should we handle this e.g. discard the rows?*
+The "Score" column contains sometimes invalid scores e.g. "01-Mar". We can impute these values using GS and GA.
 
 ```{r}
+unique(data$Score)
+
+data$Score = paste(data$GS, data$GA, sep = "-")
+
 unique(data$Score)
 ```
 There are 132 rows associated with the 20/21 year. *Should these be removed as our questions of interest are for the 19/20 season only?*
 
 ```{r}
-matches <- data[data$Season == "2020/21",]
-nrow(matches)
+test.data <- data[data$Season == "2020/21",]
+training.data <- data[data$Season == "2019/20",]
+
+nrow(data)
+nrow(test.data)
+nrow(training.data)
 ```
 
-The "Date Range" and "League" features are always the same value. *We can remove these from the data frame.*
+The "Date Range" and "League" features are always the same value. We can remove these from the data frame.
 
 ```{r}
 unique(data$Date.Range)
 unique(data$League)
+
+data <- subset(data, select = -c(Date.Range, League))
 ```
 The available teams are valid.
 
@@ -47,10 +58,14 @@ print(teams)
 print(sort(teams) == sort(awayTeams) & sort(teams) == sort(homeTeams))
 ```
 
-The format of the dates can be DD/MM/YYYY or D/MM/YYYY.
+The format of the dates can be MM/DD/YYYY or M/DD/YYYY.
 
 ```{r}
 head(data$Date, n = 3)
+
+data$Date <- as.Date(data$Date, format = "%m/%d/%y")
+
+str(data$Date)
 ```
 The goals scored and conceded values are in the range 0 - 9.
 
@@ -75,11 +90,14 @@ The lower and upper bound for expected goals is -0.36 and 0.42 respectively.
 unique(data$Lower.xG)
 unique(data$Upper.xG)
 ```
-There is missing data for Pts vs xG+ and Pts vs xG-. *Both of these can be computed using xG Pts and Pts features.*
+There is missing data for Pts vs xG+ and Pts vs xG-. Both of these can be computed using xG Pts and Pts features.
 
 ```{r}
 unique(data$Pts.vs.xG..ve)
 unique(data$Pts.vs.xG..ve.1)
+
+data$Pts.vs.xG..ve <- data$Upper.xG - data$Pts
+data$Pts.vs.xG..ve.1 <- data$Pts - data$Lower.xG
 ```
 
 There is a strong positive relationship between goals scored and expected goals scored for every team.
