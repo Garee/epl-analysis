@@ -117,10 +117,28 @@ Breaking it down by team we discover that the relationship ranges from strong to
 team.cors <- data.frame()
 for (t in unique(data$Team)) {
   t.data <- subset(data, data$Team == t)
-  team.cors <- rbind(team.cors, c(t, cor(t.data$GS, t.data$xG)))
+  t.cor <- cor.test(t.data$GS, t.data$xG, method = "kendall")
+  team.cors <- rbind(team.cors, c(t, t.cor$estimate, t.cor$p.value))
+  
 }
-colnames(team.cors) <- c("Team", "GS/xG Correlation")
+colnames(team.cors) <- c("Team", "GS/xG Correlation", "p-value")
 team.cors <- team.cors[order(team.cors$`GS/xG Correlation`, decreasing = TRUE),]
 print(team.cors)
 ```
 
+```{r}
+library(ggpubr)
+fulham <- subset(data, data$Team == "Fulham")
+ggplot(fulham, aes(GS, xG)) +
+  geom_point() +
+  geom_smooth(method = lm) +
+  stat_cor(method = "kendall") +
+  labs(title = "Fulham")
+
+chelsea <- subset(data, data$Team == "Chelsea")
+ggplot(chelsea, aes(GS, xG)) +
+  geom_point() +
+  geom_smooth(method = lm) +
+  stat_cor(method = "kendall") +
+  labs(title = "Chelsea")
+```
