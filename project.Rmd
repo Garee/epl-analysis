@@ -103,7 +103,7 @@ data$Pts.vs.xG..ve.1 <- data$Pts - data$Lower.xG
 There is a strong positive relationship between goals scored and expected goals scored for every team.
 
 ```{r message=FALSE, warning=FALSE}
-cors <- cor(data[,c("GS", "GA", "Pts", "xG", "xGA", "Net.xG", "xG.Pts")])
+cors <- cor(training.data[,c("GS", "GA", "Pts", "xG", "xGA", "Net.xG", "xG.Pts")])
 print(cors)
 
 library(corrplot)
@@ -115,8 +115,8 @@ Breaking it down by team we discover that the relationship ranges from strong to
 
 ```{r}
 team.cors <- data.frame()
-for (t in unique(data$Team)) {
-  t.data <- subset(data, data$Team == t)
+for (t in unique(training.data$Team)) {
+  t.data <- subset(training.data, training.data$Team == t)
   t.cor <- cor.test(t.data$GS, t.data$xG, method = "kendall")
   team.cors <- rbind(team.cors, c(t, t.cor$estimate, t.cor$p.value))
   
@@ -128,14 +128,14 @@ print(team.cors)
 
 ```{r}
 library(ggpubr)
-fulham <- subset(data, data$Team == "Fulham")
-ggplot(fulham, aes(GS, xG)) +
+wolves <- subset(training.data, training.data$Team == "Wolves")
+ggplot(wolves, aes(GS, xG)) +
   geom_point() +
   geom_smooth(method = lm) +
   stat_cor(method = "kendall") +
-  labs(title = "Fulham")
+  labs(title = "Wolves")
 
-chelsea <- subset(data, data$Team == "Chelsea")
+chelsea <- subset(training.data, training.data$Team == "Chelsea")
 ggplot(chelsea, aes(GS, xG)) +
   geom_point() +
   geom_smooth(method = lm) +
